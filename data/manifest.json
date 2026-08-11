@@ -3,7 +3,7 @@
   "name": "The OpenGrants Encyclopedia",
   "baseUrl": "https://opengrants.io",
   "articleCount": 75,
-  "totalWords": 221915,
+  "totalWords": 221941,
   "totalCitations": 1141,
   "articlesAwaitingReviewer": 75,
   "articles": [
@@ -1967,8 +1967,8 @@
       ],
       "externalSources": [
         "https://grants.nih.gov/grants-process/write-application/advice-on-application-sections/develop-your-budget",
-        "https://grants.nih.gov/grants/how-to-apply-application-guide/forms-e/general/g.320-phs-398-modular-budget-form.htm",
         "https://grants.nih.gov/grants/how-to-apply-application-guide/forms-i/general/g.300-r&r-budget-form.htm",
+        "https://grants.nih.gov/grants/how-to-apply-application-guide/forms-i/general/g.320-phs-398-modular-budget-form.htm",
         "https://www.ecfr.gov/current/title-2/section-200.403",
         "https://www.ecfr.gov/current/title-2/section-200.414",
         "https://www.ecfr.gov/current/title-2/section-200.430",
@@ -2451,7 +2451,7 @@
         "lagging-indicator",
         "benchmark"
       ],
-      "wordCount": 3034,
+      "wordCount": 3046,
       "citationCount": 12,
       "internalLinks": [
         "/corrections/",
@@ -2473,7 +2473,7 @@
         "https://www.ecfr.gov/current/title-2/section-200.329",
         "https://www.ecfr.gov/current/title-34/section-75.210",
         "https://www.ecfr.gov/current/title-34/subtitle-A/part-77/section-77.1",
-        "https://www.evaluation.gov/evidence-plans/learning-agenda/",
+        "https://www.epa.gov/system/files/documents/2022-03/fy-2022-2026-epa-learning-agenda_0.pdf",
         "https://www.whitehouse.gov/wp-content/uploads/2019/07/M-19-23.pdf",
         "https://www.whitehouse.gov/wp-content/uploads/2020/03/M-20-12.pdf",
         "https://www2.ed.gov/fund/grant/about/discretionary/2023-non-regulatory-guidance-evidence.pdf"
@@ -4698,7 +4698,7 @@
         "https://arpa-e.energy.gov/about/arpa-e-history",
         "https://arpa-h.gov/about",
         "https://files.gao.gov/reports/GAO-25-107546/index.html",
-        "https://science.osti.gov/sbir/About/Evaluation",
+        "https://science.osti.gov/sbir/Evaluation",
         "https://ssti.org/blog/ssti-analysis-reveals-sbir-mills-take-outsized-portion-programs-awards",
         "https://ssti.org/state-sbirsttr-resource-guide",
         "https://www.aeaweb.org/articles?id=10.1257%2Faer.20150808",
@@ -5592,9 +5592,9 @@
       ],
       "externalSources": [
         "https://grants.nih.gov/grants-process/write-application/general-grant-writing-tips",
-        "https://orsp.umich.edu/sites/default/files/resource-download/proposal-writers-guide-final.pdf",
         "https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/grant_writing/index.html",
         "https://sam.gov/content/entity-registration",
+        "https://sites.lsa.umich.edu/nextprof-science/wp-content/uploads/sites/130/2018/04/3-University-of-Michigan-Proposal-Writers-Guide.pdf",
         "https://tinker.org/why-was-my-letter-of-inquiry-declined/",
         "https://www.acquisition.gov/far/15.204-5",
         "https://www.grantcredential.org/the-exam/competencies-tested/",
@@ -5636,7 +5636,7 @@
         "percent-effort",
         "management-plan"
       ],
-      "wordCount": 2787,
+      "wordCount": 2801,
       "citationCount": 14,
       "internalLinks": [
         "/corrections/",
@@ -5665,7 +5665,7 @@
         "https://www.nsf.gov/awards/accounting-system-reviews",
         "https://www.nsf.gov/awards/first-time-awardees",
         "https://www.nsf.gov/policies/pappg/24-1/ch-2-proposal-preparation",
-        "https://www.utep.edu/research/research-development/prop-dev/letters-of-support-and-commitment.html"
+        "https://www.utep.edu/research/proposal-development/proposal-development-process-and-timeline/letters-of-support.html"
       ],
       "volatileFacts": [
         {
@@ -6217,7 +6217,7 @@
         "https://grants.nih.gov/grants/peer/guidelines_general/scoring_system_and_procedure.pdf",
         "https://ideas.repec.org/a/inm/ormnsc/v68y2022i1p300-315.html",
         "https://link.springer.com/article/10.1186/s41073-020-00093-0",
-        "https://orsp.umich.edu/sites/default/files/resource-download/proposal-writers-guide-final.pdf",
+        "https://sites.lsa.umich.edu/nextprof-science/wp-content/uploads/sites/130/2018/04/3-University-of-Michigan-Proposal-Writers-Guide.pdf",
         "https://www.bmj.com/content/343/bmj.d4797",
         "https://www.grantcredential.org/the-exam/competencies-tested/",
         "https://www.ninds.nih.gov/funding/after-you-submit/understanding-review-process/scoring-and-summary-statements",

@@ -201,7 +201,7 @@ Seven failure modes recur:
 - **Definitions that drift.** Sites or years using different definitions, with no harmonization plan, producing trends that mean nothing.
 - **Proposal and report measures that diverge.** Different measures in the application than in the reporting system, a routine finding in monitoring reviews.
 
-One judgment call deserves stating plainly. A missed target explained with evidence — implementation data showing what happened, a corrective action, and a revised projection — is far safer than a target inflated to look impressive at submission. Federal evaluation standards make transparency an explicit expectation ([OMB M-20-12](https://www.whitehouse.gov/wp-content/uploads/2020/03/M-20-12.pdf)), and program offices publish learning agendas naming the questions they want answered ([evaluation.gov](https://www.evaluation.gov/evidence-plans/learning-agenda/)). An honest shortfall contributes to those questions. An inflated number contributes nothing and, once discovered, contaminates every other figure in the report.
+One judgment call deserves stating plainly. A missed target explained with evidence — implementation data showing what happened, a corrective action, and a revised projection — is far safer than a target inflated to look impressive at submission. Federal evaluation standards make transparency an explicit expectation ([OMB M-20-12](https://www.whitehouse.gov/wp-content/uploads/2020/03/M-20-12.pdf)), and federal agencies publish learning agendas naming the priority questions they want answered ([U.S. EPA, *FY 2022–2026 Learning Agenda*](https://www.epa.gov/system/files/documents/2022-03/fy-2022-2026-epa-learning-agenda_0.pdf)). An honest shortfall contributes to those questions. An inflated number contributes nothing and, once discovered, contaminates every other figure in the report.
 
 ## Frequently asked questions
 
@@ -247,7 +247,7 @@ A named person, with the authority to require data from program staff and the ti
 6. Kidder DP, Fierro LA, Luna E, et al., "CDC Program Evaluation Framework, 2024," MMWR Recommendations and Reports 73(6):1–37. https://www.cdc.gov/mmwr/volumes/73/rr/rr7306a1.htm (accessed 2026-08-11)
 7. Office of Management and Budget, M-19-23, *Phase 1 Implementation of the Foundations for Evidence-Based Policymaking Act of 2018*. https://www.whitehouse.gov/wp-content/uploads/2019/07/M-19-23.pdf (accessed 2026-08-11)
 8. Office of Management and Budget, M-20-12, *Phase 4 Implementation of the Foundations for Evidence-Based Policymaking Act of 2018*. https://www.whitehouse.gov/wp-content/uploads/2020/03/M-20-12.pdf (accessed 2026-08-11)
-9. Evaluation.gov, "Learning Agendas." https://www.evaluation.gov/evidence-plans/learning-agenda/ (accessed 2026-08-11)
+9. U.S. Environmental Protection Agency, *FY 2022–2026 EPA Learning Agenda*. https://www.epa.gov/system/files/documents/2022-03/fy-2022-2026-epa-learning-agenda_0.pdf (accessed 2026-08-11)
 10. National Institute of Justice, "Plan for Program Evaluation from the Start." https://nij.ojp.gov/topics/articles/plan-program-evaluation-start (accessed 2026-08-11)
 11. U.S. Department of Health and Human Services, Administration for Children and Families, ACF Evaluation Policy. https://www.acf.hhs.gov/opre/report/acf-evaluation-policy (accessed 2026-08-11)
 12. U.S. Department of Education, *Using Evidence to Strengthen Education Investments*, non-regulatory guidance. https://www2.ed.gov/fund/grant/about/discretionary/2023-non-regulatory-guidance-evidence.pdf (accessed 2026-08-11)

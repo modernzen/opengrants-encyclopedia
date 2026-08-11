@@ -157,7 +157,7 @@ Agency rules diverge sharply. NSF prescribes a single-sentence format for letter
 
 Research development offices summarize the distinction the same way: a commitment letter "indicates the signatory's intent to commit resources to the funded project as specified in the letter," while a support letter "expresses the organization's knowledge and support of the project" ([University of Chicago Office of University Research Administration](https://ura.uchicago.edu/resource-library/letters-commitment-collaboration-and-support)).
 
-Research administration guidance summarizes the same split: a commitment letter "clearly defines contributions and roles" and "includes tangible support," while a support letter is a "general endorsement without specific commitments" ([University of Texas at El Paso Research Development](https://www.utep.edu/research/research-development/prop-dev/letters-of-support-and-commitment.html)).
+Research administration guidance summarizes the same split: a commitment letter "documents an institution's formal participation in a project and specifies the resources or responsibilities being committed," while a support letter "expresses endorsement of the proposed project" and "does not obligate institutional resources" ([University of Texas at El Paso Research Development](https://www.utep.edu/research/proposal-development/proposal-development-process-and-timeline/letters-of-support.html)).
 
 Two mechanical rules apply regardless of funder. The signer must have authority over the resource being promised, and the number in the letter must match the number in the narrative and budget. A mismatch between a partner's stated contribution and the applicant's budget is one of the few discrepancies a reviewer can catch in a single pass.
 
@@ -246,4 +246,4 @@ No. NIH's [reviewer guidance](https://grants.nih.gov/sites/default/files/Simplif
 11. University of Chicago, Office of University Research Administration, "Letters of Commitment, Collaboration, and Support." https://ura.uchicago.edu/resource-library/letters-commitment-collaboration-and-support (accessed 2026-08-11)
 12. Tinker Foundation, "Why Was My Letter of Inquiry Declined?" https://tinker.org/why-was-my-letter-of-inquiry-declined/ (accessed 2026-08-11)
 13. Candid, "Green Flags Funders Look For in Your Grant Proposal." https://candid.org/blogs/green-flags-funders-look-for-in-your-grant-proposal/ (accessed 2026-08-11)
-14. University of Texas at El Paso, Research Development, "Letters of Support and Commitment." https://www.utep.edu/research/research-development/prop-dev/letters-of-support-and-commitment.html (accessed 2026-08-11)
+14. University of Texas at El Paso, Research Development, "Institutional Letters of Support, Commitment, and Collaboration." https://www.utep.edu/research/proposal-development/proposal-development-process-and-timeline/letters-of-support.html (accessed 2026-08-11)

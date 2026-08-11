@@ -89,7 +89,7 @@ Reviewer preparation is thinner than applicants assume. In a survey of 258 grant
 
 Assignment structures differ but converge on one shape. The National Science Foundation typically identifies at least three external reviewers per proposal, working as ad hoc reviewers, a panel, or both ([NSF, *Overview of the Proposal and Award Process*](https://www.nsf.gov/funding/overview)). The National Institutes of Health assigns at least three reviewers who write critiques and preliminary scores before the meeting, after which the wider study section votes ([NINDS, *Scoring and Summary Statements*](https://www.ninds.nih.gov/funding/after-you-submit/understanding-review-process/scoring-and-summary-statements)).
 
-The University of Michigan's proposal guide states the reader model without flattery: "It is well to assume that your reader is a busy, impatient, skeptical person who has no reason to give your proposal special consideration and who is faced with many more requests than he can grant, or even read thoroughly" ([University of Michigan ORSP, *The Proposal Writer's Guide*](https://orsp.umich.edu/sites/default/files/resource-download/proposal-writers-guide-final.pdf)).
+The University of Michigan's proposal guide states the reader model without flattery: "It is well to assume that your reader is a busy, impatient, skeptical person who has no reason to give your proposal special consideration and who is faced with many more requests than he can grant, or even read thoroughly" ([University of Michigan ORSP, *The Proposal Writer's Guide*](https://sites.lsa.umich.edu/nextprof-science/wp-content/uploads/sites/130/2018/04/3-University-of-Michigan-Proposal-Writers-Guide.pdf)).
 
 ## How much time does a grant reviewer spend reading?
 
@@ -209,5 +209,5 @@ Some grant reviewers know your exact subspecialty and most do not. NIH instructs
 10. National Institute of Neurological Disorders and Stroke, *Scoring and Summary Statements*. https://www.ninds.nih.gov/funding/after-you-submit/understanding-review-process/scoring-and-summary-statements (accessed 2026-08-11)
 11. U.S. National Science Foundation, *Overview of the Proposal and Award Process*. https://www.nsf.gov/funding/overview (accessed 2026-08-11)
 12. U.S. National Science Foundation, Dear Colleague Letter 15-095, *Communication About Automated Compliance Checking and Proposal Submission*. https://www.nsf.gov/funding/information/dcl-communication-about-automated-compliance-checking-proposal/nsf15-095 (accessed 2026-08-11)
-13. University of Michigan Office of Research and Sponsored Projects, *The Proposal Writer's Guide*. https://orsp.umich.edu/sites/default/files/resource-download/proposal-writers-guide-final.pdf (accessed 2026-08-11)
+13. University of Michigan Office of Research and Sponsored Projects, *The Proposal Writer's Guide*. https://sites.lsa.umich.edu/nextprof-science/wp-content/uploads/sites/130/2018/04/3-University-of-Michigan-Proposal-Writers-Guide.pdf (accessed 2026-08-11)
 14. Grant Professional Certification Institute, *Competencies Tested*. https://www.grantcredential.org/the-exam/competencies-tested/ (accessed 2026-08-11)

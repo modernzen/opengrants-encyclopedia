@@ -186,7 +186,7 @@ What grant funding signals to an investor is narrower than founders assume, and 
 > "Certification, where the award contains information about firm quality, likely does not explain the grant effect. Instead, the grants are useful because they fund technology prototyping."
 > — [Sabrina T. Howell, *Financing Innovation: Evidence from R&D Grants*, American Economic Review, 2017](https://www.aeaweb.org/articles?id=10.1257%2Faer.20150808)
 
-The practical instruction follows directly. Lead an investor conversation with the artifact the award produced, not with the award. Portfolio-level outcomes support the pattern at scale — the Department of Energy reports that its 2009 to 2018 award cohort of 1,240 firms went on to raise $8.6 billion in private-sector follow-on funding and account for $4.6 billion in merger and acquisition activity ([DOE Office of Science](https://science.osti.gov/sbir/About/Evaluation)).
+The practical instruction follows directly. Lead an investor conversation with the artifact the award produced, not with the award. Portfolio-level outcomes support the pattern at scale — the Department of Energy reports that its 2009 to 2018 award cohort of 1,240 firms went on to raise $8.6 billion in private-sector follow-on funding and account for $4.6 billion in merger and acquisition activity ([DOE Office of Science](https://science.osti.gov/sbir/Evaluation)).
 
 Investors also carry two legitimate concerns worth addressing before they raise them. The first is revenue quality: a company whose income is entirely government research money and whose customer list is empty reads as a research shop, not a business. The second is the cap table itself, because ownership and control rules in federal small business programs can be broken by a single investor taking majority ownership or blocking rights over ordinary business decisions. Governance terms should be checked against program eligibility before a term sheet is signed, not after.
 
@@ -254,7 +254,7 @@ That depends on volume and fit. A single opportunity rarely justifies a hire; a 
 9. Office of Management and Budget. *2 CFR 200.501 — Audit requirements.* eCFR. https://www.ecfr.gov/current/title-2/section-200.501 (accessed 2026-08-11)
 10. Advanced Research Projects Agency–Energy. *History.* U.S. Department of Energy. https://arpa-e.energy.gov/about/arpa-e-history (accessed 2026-08-11)
 11. Advanced Research Projects Agency for Health. *About Us.* https://arpa-h.gov/about (accessed 2026-08-11)
-12. U.S. Department of Energy, Office of Science. *SBIR/STTR Evaluation and Program Outcomes.* https://science.osti.gov/sbir/About/Evaluation (accessed 2026-08-11)
+12. U.S. Department of Energy, Office of Science. *SBIR/STTR Evaluation and Program Outcomes.* https://science.osti.gov/sbir/Evaluation (accessed 2026-08-11)
 13. Howell, S. T. *Financing Innovation: Evidence from R&D Grants.* American Economic Review 107(4): 1136–1164, 2017. https://www.aeaweb.org/articles?id=10.1257%2Faer.20150808 (accessed 2026-08-11)
 14. SSTI. *State SBIR/STTR Resource Guide.* https://ssti.org/state-sbirsttr-resource-guide (accessed 2026-08-11)
 15. SSTI. *SSTI analysis reveals SBIR mills take outsized portion of programs' awards.* https://ssti.org/blog/ssti-analysis-reveals-sbir-mills-take-outsized-portion-programs-awards (accessed 2026-08-11)
