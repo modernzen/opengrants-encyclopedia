@@ -1,0 +1,149 @@
+<!--
+llms.txt for the OpenGrants Encyclopedia.
+
+Honest framing: this file is cheap insurance, not a demonstrated growth lever.
+Google states plainly that it does not use AI text files of any kind. Ahrefs,
+reading server logs from 137,000 domains, found that 97% of llms.txt files
+received zero requests in May 2026, and AI retrieval bots accounted for 1.1% of
+the requests that did arrive; Originality.ai's scan of 3M+ sites shows adoption
+up 8.8x year over year while reads stay near zero.
+https://ppc.land/llms-txt-adoption-rises-8-8x-but-97-of-files-get-zero-ai-requests/
+We publish it because it costs nothing. Nothing in the encyclopedia's
+architecture depends on it, and no one should report on it as a channel.
+
+GENERATED FILE — do not hand-edit. Regenerate with:
+    python3 scripts/gen-llms-txt.py
+Source of truth: data/taxonomy.json, data/manifest.json, article frontmatter.
+-->
+
+# The OpenGrants Encyclopedia
+
+> OpenGrants is a commercial grant discovery platform. The OpenGrants Encyclopedia is its open reference work on how public and philanthropic funding actually works: what a grant is and who gives them out, how to find and qualify opportunities, what a funder requires before it will fund you, how to write and budget a proposal, how to build an evidence base, how each funding track (federal, state, foundation, corporate, DAF, SBIR) differs, and what happens after an award lands. 75 articles, roughly 221,915 words, 1,141 external citations weighted toward primary government sources.
+
+Every article names a human author and a human reviewer, carries visible published and last-reviewed dates, cites primary sources inline at the claim, and quarantines every figure that can change into a single dated "Current figures" callout with its own source links. Figures in those callouts are verified on a quarterly cadence and should still be checked against the linked source before anyone relies on them. Corrections: https://opengrants.io/corrections/
+
+## Start here
+
+- [The OpenGrants Encyclopedia](https://opengrants.io/encyclopedia/): Grant funding moves money to organizations doing work a funder wants done. Nothing is repaid; the price is competition, restricted use, and lasting reporting.
+- [Grant Funding Glossary](https://opengrants.io/encyclopedia/glossary/): A reference glossary of grant funding terms, each defined in one sentence with a primary-source citation and a link to the article that explains it in full.
+
+## Grant Funding Fundamentals
+
+The structure of the funding system: what a grant is, who gives money away and why, and how the whole cycle moves.
+
+- [Grant Funding Fundamentals (hub)](https://opengrants.io/encyclopedia/foundations/): Grant funding moves money to an organization so it can carry out a public purpose. Nothing is repaid, no ownership changes hands, and the money is conditional.
+- [What Is a Grant?](https://opengrants.io/encyclopedia/foundations/what-is-a-grant/): A grant transfers money or value so a recipient can carry out a public purpose, not to buy something for the funder. The legal definition, and what it is not.
+- [Types of Grants Explained](https://opengrants.io/encyclopedia/foundations/types-of-grants/): Discretionary and formula grants, cooperative agreements, subawards, fixed amount awards, operating support, and prizes — what each grant type demands of you.
+- [Who Funds What: The Funder Landscape](https://opengrants.io/encyclopedia/foundations/who-funds-what/): Federal agencies, state governments, foundations, corporate givers, community foundations, DAFs, and regranters — where each one's money comes from and why.
+- [The Grant Funding Lifecycle](https://opengrants.io/encyclopedia/foundations/grant-funding-lifecycle/): From authorization and appropriation through NOFO, review, award, reporting, closeout, and audit — the full grant lifecycle, and the part applicants never see.
+- [How Funders Decide Who Gets Money](https://opengrants.io/encyclopedia/foundations/how-funders-decide/): Funders decide grant awards in three stages: a legal screen on eligible uses, a merit review that scores quality, then selection balancing portfolio and risk.
+- [Grants vs Loans, Equity, and Contracts](https://opengrants.io/encyclopedia/foundations/grants-vs-other-capital/): Grant funding costs no equity and no repayment, but it is paid for in staff hours, cycle time, and compliance. How grants compare to debt, equity, and contracts.
+- [Grant Funding Myths, Corrected](https://opengrants.io/encyclopedia/foundations/grant-funding-myths/): The grant funding myths that waste the most time, corrected against primary sources: free government money, 501(c)(3) rules, commission-based grant writers, overhead.
+
+## Finding and Qualifying Funding
+
+Search strategy, funder research, pipeline construction, and the discipline of saying no to bad fits.
+
+- [Finding and Qualifying Funding (hub)](https://opengrants.io/encyclopedia/finding-funding/): Finding grants is a filtering problem, not a search problem. Open opportunities are abundant; qualified ones are rare. Disqualify fast so writing hours go to winnable work.
+- [How to Search for Grants](https://opengrants.io/encyclopedia/finding-funding/how-to-search-for-grants/): Grant search starts with hard filters — eligibility, geography, funder type — before keywords. Search the funder and past awards, not just open opportunity lists.
+- [How to Read a NOFO](https://opengrants.io/encyclopedia/finding-funding/how-to-read-a-nofo/): Read a Notice of Funding Opportunity backward: review criteria first, then application contents, then eligibility. Build a requirements checklist as you go.
+- [Researching a Funder with Form 990](https://opengrants.io/encyclopedia/finding-funding/funder-research-990/): Use Form 990-PF to research a foundation: read the grants table, compute median grant size, check the unsolicited-requests box, and find the application procedure.
+- [Building a Grant Pipeline](https://opengrants.io/encyclopedia/finding-funding/building-a-grant-pipeline/): A grant pipeline is a staged system with entry and exit criteria. Size the top from your target awards and win rate, then cap it at real staff hours.
+- [The Go/No-Go Decision](https://opengrants.io/encyclopedia/finding-funding/go-no-go-decision/): How to decide whether to apply for a grant: hard eligibility gates, a weighted scoring rubric, expected-value math, and the kill criteria that end a pursuit.
+- [Grant Timing and the Funding Calendar](https://opengrants.io/encyclopedia/finding-funding/grant-calendar-and-timing/): How the federal fiscal year, appropriations, forecasts, and foundation board cycles set grant timing — and how much lead time an application actually needs.
+- [Free Grant and Funder Data Sources](https://opengrants.io/encyclopedia/finding-funding/free-grant-data-sources/): A directory of free grant and funder data: federal portals, assistance listings, award history databases, state grant sites, IRS 990 filings — and their real limits.
+
+## Eligibility and Organizational Readiness
+
+Registrations, legal status, documentation, and the internal machinery a funder assumes you already have.
+
+- [Eligibility and Organizational Readiness (hub)](https://opengrants.io/encyclopedia/readiness/): Grant readiness is documentary. Every readiness question resolves to an artifact that either exists today or does not — and gaps cost less to close before an award.
+- [Grant Eligibility Explained](https://opengrants.io/encyclopedia/readiness/grant-eligibility-explained/): Grant eligibility is a layered test: entity type, active registration, program-specific limits, exclusions, and the gap between eligible and competitive.
+- [SAM.gov Registration and the UEI](https://opengrants.io/encyclopedia/readiness/sam-gov-and-uei-registration/): SAM.gov registration assigns the Unique Entity ID that replaced DUNS. How entity validation, roles, and annual renewal work — and why registration is free.
+- [The Grant Readiness Assessment](https://opengrants.io/encyclopedia/readiness/grant-readiness-assessment/): A scored grant readiness assessment across legal, financial, programmatic, administrative, and capacity domains — with the artifact each funder actually asks for.
+- [Fiscal Sponsorship for Grant Seekers](https://opengrants.io/encyclopedia/readiness/fiscal-sponsorship/): Fiscal sponsorship lets a 501(c)(3) receive grants for a project without its own exemption. The models, the fees, the control trade-offs, and the exit.
+- [The Documents Every Grant Application Needs](https://opengrants.io/encyclopedia/readiness/grant-documentation-file/): The standing document library a grant application draws on: legal, governance, financial, organizational, and program artifacts, and how to keep them current.
+- [Internal Controls for Grant Recipients](https://opengrants.io/encyclopedia/readiness/internal-controls-for-grants/): What 2 CFR 200.303 requires, the five components of internal control, compensating controls for small teams, and what a control failure costs downstream.
+
+## Writing the Proposal
+
+Section by section: what each part of a proposal is actually asked to prove, and how reviewers read it.
+
+- [Writing the Proposal (hub)](https://opengrants.io/encyclopedia/proposal-craft/): A grant proposal discharges six burdens of proof in order: the problem is real, the solution follows, you can execute, success is measured, the money is right.
+- [The Anatomy of a Grant Proposal](https://opengrants.io/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/): Every grant proposal section carries a burden of proof. Learn the standard sections, how funders rename them, and which ones are scored versus gates.
+- [Writing a Statement of Need](https://opengrants.io/encyclopedia/proposal-craft/writing-a-needs-statement/): A statement of need documents a gap between current and desired conditions for a defined population. The need belongs to the community, never the applicant.
+- [Goals, Objectives, and Activities](https://opengrants.io/encyclopedia/proposal-craft/goals-and-objectives/): A goal is direction; an objective is a measurable destination. Learn the full chain from goal to impact and how reviewers test it for internal consistency.
+- [Writing the Project Design](https://opengrants.io/encyclopedia/proposal-craft/project-design-and-methodology/): The project design section proves activities can mechanically produce the promised outcomes. Cover work plan, timeline, staffing, dosage, evidence, and risk.
+- [Demonstrating Organizational Capacity](https://opengrants.io/encyclopedia/proposal-craft/demonstrating-organizational-capacity/): Organizational capacity is the proposal section proving an applicant has done this work before. Reviewers weigh verifiable artifacts far above intent.
+- [Writing a Sustainability Plan](https://opengrants.io/encyclopedia/proposal-craft/sustainability-plan/): How to write a grant sustainability plan funders believe: what counts as sustainability, why more grants is the weakest answer, and a template with example phrasing.
+- [The Abstract and Project Summary](https://opengrants.io/encyclopedia/proposal-craft/abstract-and-project-summary/): A grant abstract compresses the whole proposal — problem, approach, outcomes. Written last, read first, used to route the application, often published.
+- [The Letter of Inquiry](https://opengrants.io/encyclopedia/proposal-craft/letter-of-inquiry/): How to write a letter of inquiry to a foundation: structure with word budgets, naming the amount, follow-up etiquette, and the federal analogues that work differently.
+- [Writing for the Reviewer](https://opengrants.io/encyclopedia/proposal-craft/writing-for-grant-reviewers/): How grant reviewers actually read: volunteer peers, hours not days per proposal, published criteria, and the writing choices that survive a tired reader.
+- [Building a Compliance Matrix](https://opengrants.io/encyclopedia/proposal-craft/compliance-matrix/): What a compliance matrix is, how to build one from a funding announcement, and how the compliance, responsiveness, and competitiveness layers decide proposals.
+- [What to Do When a Grant Is Declined](https://opengrants.io/encyclopedia/proposal-craft/responding-to-rejection/): What to do after a grant rejection: getting feedback, triaging reviewer comments, deciding whether to resubmit, writing the response, and reusing the work.
+
+## Budgets and Grant Finance
+
+Cost categories, indirect rates, match, allowability, and the cash mechanics of running on grant money.
+
+- [Budgets and Grant Finance (hub)](https://opengrants.io/encyclopedia/budgets/): A grant budget is read as evidence that the applicant understands its own project. Most budget failures are failures of derivation, not arithmetic.
+- [The Anatomy of a Grant Budget](https://opengrants.io/encyclopedia/budgets/grant-budget-anatomy/): The standard grant budget structure line by line: personnel, fringe, travel, equipment, supplies, contractual, other, direct and indirect totals.
+- [Direct vs Indirect Costs](https://opengrants.io/encyclopedia/budgets/direct-vs-indirect-costs/): Direct and indirect costs are separated by traceability and consistent treatment, not by cost type. How the Uniform Guidance draws the line, and why it matters.
+- [Indirect Cost Rates and the De Minimis Option](https://opengrants.io/encyclopedia/budgets/indirect-cost-rates/): How indirect cost rates work: negotiated rate agreements, the de minimis option, why the base matters as much as the rate, rate types, caps, and subawards.
+- [Cost Share and Matching Requirements](https://opengrants.io/encyclopedia/budgets/cost-share-and-matching/): What cost share and matching mean on a grant: required versus voluntary match, cash versus in-kind, valuation rules, documentation, and the audit exposure.
+- [Writing a Budget Narrative](https://opengrants.io/encyclopedia/budgets/writing-a-budget-narrative/): A budget narrative shows the derivation, necessity, and allowability of every proposed cost. How to write one line by line, with the arithmetic shown.
+- [Allowable, Allocable, and Reasonable Costs](https://opengrants.io/encyclopedia/budgets/allowable-costs/): A cost is allowable on a federal grant when it is necessary, reasonable, allocable, consistently treated as direct or indirect, and adequately documented.
+- [Grant Cash Flow and Reimbursement](https://opengrants.io/encyclopedia/budgets/grant-cash-flow/): How grant money moves: advance payment versus reimbursement, drawdown mechanics, sizing the working capital a grant requires, and when to decline an award you cannot float.
+- [The True Cost of Running a Program](https://opengrants.io/encyclopedia/budgets/true-cost-of-programs/): Full cost recovery means direct program costs plus a fair share of shared infrastructure plus reserves. What the starvation-cycle research shows, and how to price a program honestly.
+
+## Evidence, Evaluation, and Data
+
+Logic models, evaluation design, evidence tiers, and the public data that makes a needs statement credible.
+
+- [Evidence, Evaluation, and Data (hub)](https://opengrants.io/encyclopedia/evidence/): Evaluation is not a section written at the end. It is the spine connecting the documented need, the project design, the objectives, and the reports you will owe.
+- [How to Build a Logic Model](https://opengrants.io/encyclopedia/evidence/logic-models/): A logic model maps situation, inputs, activities, outputs, outcomes, and impact. Build it backward from the intended outcome, then test every if-then link.
+- [Theory of Change vs Logic Model](https://opengrants.io/encyclopedia/evidence/theory-of-change/): A theory of change explains why an intervention should work, built backward from the goal. A logic model depicts what one project will do and produce.
+- [Outputs, Outcomes, and Impact](https://opengrants.io/encyclopedia/evidence/outputs-vs-outcomes/): Outputs are what a project produces and controls. Outcomes are changes in the people or systems it touched. Impact is the broader change it contributes to.
+- [Writing an Evaluation Plan](https://opengrants.io/encyclopedia/evidence/writing-an-evaluation-plan/): An evaluation plan states the questions, indicators, data sources, methods, sample, analysis, timeline, and evaluator — and carries a funded budget line.
+- [Levels of Evidence in Grant Funding](https://opengrants.io/encyclopedia/evidence/levels-of-evidence/): What funders mean by evidence-based: the four federal evidence tiers, the study designs behind each, evidence clearinghouses, and what to do with no evidence base.
+- [Public Data Sources for Needs Statements](https://opengrants.io/encyclopedia/evidence/data-sources-for-needs-statements/): A linked directory of free public data for grant needs statements: census, health, education, housing, food, justice, environment, and state sources, with geography notes.
+- [Performance Measurement and Indicators](https://opengrants.io/encyclopedia/evidence/performance-measurement/): How to choose grant performance measures: indicator criteria, leading vs lagging, setting defensible targets, collection cost, and what reporting does to them later.
+
+## Funding Tracks by Funder Type
+
+Federal, state, foundation, corporate, and innovation funding — how each one behaves and what it demands.
+
+- [Funding Tracks by Funder Type (hub)](https://opengrants.io/encyclopedia/funding-tracks/): Federal, state, foundation, corporate, and innovation grant tracks each set their own application length, relationship weight, reporting burden, and speed.
+- [Federal Grants Explained](https://opengrants.io/encyclopedia/funding-tracks/federal-grants-explained/): Federal grants run on three legal layers: authorizing statute and appropriation, 2 CFR 200, and the signed award document. How the track actually works.
+- [State and Local Government Grants](https://opengrants.io/encyclopedia/funding-tracks/state-and-local-grants/): Most state and local grant money is federal money a state redistributes. How pass-through works, why these programs are less competitive, and how to find them.
+- [Foundation Grants](https://opengrants.io/encyclopedia/funding-tracks/foundation-grants/): Foundation grants run on payout rules, board calendars, and program officer advocacy rather than published rubrics. How private philanthropy actually behaves.
+- [Corporate Giving and Corporate Grants](https://opengrants.io/encyclopedia/funding-tracks/corporate-giving/): How corporate grants work: corporate foundations, direct giving programs, sponsorship, in-kind, and matching gifts — who decides each, and what each one wants.
+- [Community Foundations and Donor-Advised Funds](https://opengrants.io/encyclopedia/funding-tracks/community-foundations-and-dafs/): How community foundations and donor-advised funds work: which funds you can apply to, why DAF grants are recommended not solicited, and how to receive one correctly.
+- [SBIR and STTR Explained](https://opengrants.io/encyclopedia/funding-tracks/sbir-and-sttr/): How SBIR and STTR work: the phase structure, the SBIR/STTR distinction, topic-driven vs investigator-initiated agencies, eligibility rules, and what reviewers score.
+- [Research Grants at NIH and NSF](https://opengrants.io/encyclopedia/funding-tracks/research-grants-nih-nsf/): How NIH and NSF research grants work: NIH activity codes, study sections, impact scores, percentiles and paylines, and NSF's Intellectual Merit and Broader Impacts criteria.
+- [Non-Dilutive Capital for Startups](https://opengrants.io/encyclopedia/funding-tracks/nondilutive-capital-for-startups/): The full stack of startup capital that takes no equity: federal research awards, other transactions, prizes, state match, CRADAs, tax credits — with the dilution math and the honest costs.
+- [Grants vs Contracts vs Cooperative Agreements](https://opengrants.io/encyclopedia/funding-tracks/grants-vs-contracts/): The statutory test that separates a federal grant from a procurement contract, what substantial involvement means, and how the two instruments differ on rules, IP, audit, and appeals.
+
+## Managing the Award
+
+Reporting, prior approval, monitoring, audit, closeout, and the operating function that holds it all together.
+
+- [Managing the Award (hub)](https://opengrants.io/encyclopedia/award-management/): Winning a grant starts the obligation. Reporting, prior approval, monitoring, time and effort, audit, and closeout all run on clocks set by the Notice of Award.
+- [How to Read a Notice of Award](https://opengrants.io/encyclopedia/award-management/reading-the-notice-of-award/): The Notice of Award is the binding instrument, not the funding announcement. How to read the terms, the specific conditions, the budget, and the reporting schedule.
+- [Grant Reporting Requirements](https://opengrants.io/encyclopedia/award-management/grant-reporting-requirements/): Federal grant recipients file financial, performance, subaward and executive compensation, property, invention, and audit reports; award terms set each one.
+- [Prior Approval and Changing a Grant](https://opengrants.io/encyclopedia/award-management/prior-approval-and-changes/): Which grant changes require prior written approval, which you may make unilaterally, who can actually approve, and why unapproved changes become disallowed costs.
+- [Subrecipient Monitoring and Pass-Through Funding](https://opengrants.io/encyclopedia/award-management/subrecipient-monitoring/): What a pass-through entity owes when it subawards federal funds: the subrecipient versus contractor test, required subaward terms, risk assessment, and monitoring duties.
+- [Time and Effort Documentation](https://opengrants.io/encyclopedia/award-management/time-and-effort-documentation/): How to document staff time charged to a federal grant under 2 CFR 200.430(g): the six record standards, why budget estimates fail, and what auditors test.
+- [The Single Audit](https://opengrants.io/encyclopedia/award-management/the-single-audit/): What a Single Audit is, who triggers one by expending federal awards above the threshold, what auditors test, and what a finding does to future funding.
+- [Closing Out a Grant](https://opengrants.io/encyclopedia/award-management/grant-closeout/): How federal grant closeout works: final reports, the liquidation window, final drawdown, indirect rate settlement, property disposition, and records retention.
+- [Grant Termination, Suspension, and Appeals](https://opengrants.io/encyclopedia/award-management/termination-and-appeals/): Grant termination ends a federal award early. Costs properly incurred before the effective date generally stay allowable; agencies must let you object.
+- [Building a Grants Function](https://opengrants.io/encyclopedia/award-management/building-a-grants-function/): How to build a grants program inside an organization: the maturity ladder, roles at every scale, required artifacts, capacity math, and honest benchmarks.
+- [Hiring a Grant Writer](https://opengrants.io/encyclopedia/award-management/hiring-a-grant-writer/): How to hire a grant writer: what the role covers, how to evaluate candidates, pricing structures and ranges, contract scoping, and why commission pay is barred.
+
+## Editorial
+
+Accountability surfaces for the encyclopedia. Every article links all three.
+
+- [Author: Sedale Turbovsky](https://opengrants.io/authors/sedale-turbovsky/): Bio, credentials, and verified profiles for the encyclopedia's author.
+- [Editorial policy](https://opengrants.io/editorial-policy/): Sourcing standards, review process, correction policy, AI-use disclosure, and commercial disclosure.
+- [Corrections](https://opengrants.io/corrections/): Public dated log of every correction, and the form for reporting an outdated figure.

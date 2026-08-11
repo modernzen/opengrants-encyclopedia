@@ -1,0 +1,3884 @@
+{
+  "nodes": [
+    {
+      "url": "/encyclopedia/award-management/building-a-grants-function/",
+      "title": "Building a Grants Function",
+      "hub": "award-management",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/award-management/grant-closeout/",
+      "title": "Closing Out a Grant",
+      "hub": "award-management",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/award-management/grant-reporting-requirements/",
+      "title": "Grant Reporting Requirements",
+      "hub": "award-management",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/award-management/hiring-a-grant-writer/",
+      "title": "Hiring a Grant Writer",
+      "hub": "award-management",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/award-management/",
+      "title": "Managing the Award",
+      "hub": null,
+      "type": "hub"
+    },
+    {
+      "url": "/encyclopedia/award-management/prior-approval-and-changes/",
+      "title": "Prior Approval and Changing a Grant",
+      "hub": "award-management",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/award-management/reading-the-notice-of-award/",
+      "title": "How to Read a Notice of Award",
+      "hub": "award-management",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/award-management/subrecipient-monitoring/",
+      "title": "Subrecipient Monitoring and Pass-Through Funding",
+      "hub": "award-management",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/award-management/termination-and-appeals/",
+      "title": "Grant Termination, Suspension, and Appeals",
+      "hub": "award-management",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/award-management/the-single-audit/",
+      "title": "The Single Audit",
+      "hub": "award-management",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/award-management/time-and-effort-documentation/",
+      "title": "Time and Effort Documentation",
+      "hub": "award-management",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/budgets/allowable-costs/",
+      "title": "Allowable, Allocable, and Reasonable Costs",
+      "hub": "budgets",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/budgets/cost-share-and-matching/",
+      "title": "Cost Share and Matching Requirements",
+      "hub": "budgets",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/budgets/direct-vs-indirect-costs/",
+      "title": "Direct vs Indirect Costs",
+      "hub": "budgets",
+      "type": "comparison"
+    },
+    {
+      "url": "/encyclopedia/budgets/grant-budget-anatomy/",
+      "title": "The Anatomy of a Grant Budget",
+      "hub": "budgets",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/budgets/grant-cash-flow/",
+      "title": "Grant Cash Flow and Reimbursement",
+      "hub": "budgets",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/budgets/",
+      "title": "Budgets and Grant Finance",
+      "hub": null,
+      "type": "hub"
+    },
+    {
+      "url": "/encyclopedia/budgets/indirect-cost-rates/",
+      "title": "Indirect Cost Rates and the De Minimis Option",
+      "hub": "budgets",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/budgets/true-cost-of-programs/",
+      "title": "The True Cost of Running a Program",
+      "hub": "budgets",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/budgets/writing-a-budget-narrative/",
+      "title": "Writing a Budget Narrative",
+      "hub": "budgets",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/evidence/data-sources-for-needs-statements/",
+      "title": "Public Data Sources for Needs Statements",
+      "hub": "evidence",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/evidence/",
+      "title": "Evidence, Evaluation, and Data",
+      "hub": null,
+      "type": "hub"
+    },
+    {
+      "url": "/encyclopedia/evidence/levels-of-evidence/",
+      "title": "Levels of Evidence in Grant Funding",
+      "hub": "evidence",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/evidence/logic-models/",
+      "title": "How to Build a Logic Model",
+      "hub": "evidence",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/evidence/outputs-vs-outcomes/",
+      "title": "Outputs, Outcomes, and Impact",
+      "hub": "evidence",
+      "type": "comparison"
+    },
+    {
+      "url": "/encyclopedia/evidence/performance-measurement/",
+      "title": "Performance Measurement and Indicators",
+      "hub": "evidence",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/evidence/theory-of-change/",
+      "title": "Theory of Change vs Logic Model",
+      "hub": "evidence",
+      "type": "comparison"
+    },
+    {
+      "url": "/encyclopedia/evidence/writing-an-evaluation-plan/",
+      "title": "Writing an Evaluation Plan",
+      "hub": "evidence",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/finding-funding/building-a-grant-pipeline/",
+      "title": "Building a Grant Pipeline",
+      "hub": "finding-funding",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/finding-funding/free-grant-data-sources/",
+      "title": "Free Grant and Funder Data Sources",
+      "hub": "finding-funding",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/finding-funding/funder-research-990/",
+      "title": "Researching a Funder with Form 990",
+      "hub": "finding-funding",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/finding-funding/go-no-go-decision/",
+      "title": "The Go/No-Go Decision",
+      "hub": "finding-funding",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/finding-funding/grant-calendar-and-timing/",
+      "title": "Grant Timing and the Funding Calendar",
+      "hub": "finding-funding",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/finding-funding/how-to-read-a-nofo/",
+      "title": "How to Read a NOFO",
+      "hub": "finding-funding",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/finding-funding/how-to-search-for-grants/",
+      "title": "How to Search for Grants",
+      "hub": "finding-funding",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/finding-funding/",
+      "title": "Finding and Qualifying Funding",
+      "hub": null,
+      "type": "hub"
+    },
+    {
+      "url": "/encyclopedia/foundations/grant-funding-lifecycle/",
+      "title": "The Grant Funding Lifecycle",
+      "hub": "foundations",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/foundations/grant-funding-myths/",
+      "title": "Grant Funding Myths, Corrected",
+      "hub": "foundations",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/foundations/grants-vs-other-capital/",
+      "title": "Grants vs Loans, Equity, and Contracts",
+      "hub": "foundations",
+      "type": "comparison"
+    },
+    {
+      "url": "/encyclopedia/foundations/how-funders-decide/",
+      "title": "How Funders Decide Who Gets Money",
+      "hub": "foundations",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/foundations/",
+      "title": "Grant Funding Fundamentals",
+      "hub": null,
+      "type": "hub"
+    },
+    {
+      "url": "/encyclopedia/foundations/types-of-grants/",
+      "title": "Types of Grants Explained",
+      "hub": "foundations",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/foundations/what-is-a-grant/",
+      "title": "What Is a Grant?",
+      "hub": "foundations",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/foundations/who-funds-what/",
+      "title": "Who Funds What: The Funder Landscape",
+      "hub": "foundations",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/funding-tracks/community-foundations-and-dafs/",
+      "title": "Community Foundations and Donor-Advised Funds",
+      "hub": "funding-tracks",
+      "type": "program"
+    },
+    {
+      "url": "/encyclopedia/funding-tracks/corporate-giving/",
+      "title": "Corporate Giving and Corporate Grants",
+      "hub": "funding-tracks",
+      "type": "program"
+    },
+    {
+      "url": "/encyclopedia/funding-tracks/federal-grants-explained/",
+      "title": "Federal Grants Explained",
+      "hub": "funding-tracks",
+      "type": "program"
+    },
+    {
+      "url": "/encyclopedia/funding-tracks/foundation-grants/",
+      "title": "Foundation Grants",
+      "hub": "funding-tracks",
+      "type": "program"
+    },
+    {
+      "url": "/encyclopedia/funding-tracks/grants-vs-contracts/",
+      "title": "Grants vs Contracts vs Cooperative Agreements",
+      "hub": "funding-tracks",
+      "type": "comparison"
+    },
+    {
+      "url": "/encyclopedia/funding-tracks/",
+      "title": "Funding Tracks by Funder Type",
+      "hub": null,
+      "type": "hub"
+    },
+    {
+      "url": "/encyclopedia/funding-tracks/nondilutive-capital-for-startups/",
+      "title": "Non-Dilutive Capital for Startups",
+      "hub": "funding-tracks",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/funding-tracks/research-grants-nih-nsf/",
+      "title": "Research Grants at NIH and NSF",
+      "hub": "funding-tracks",
+      "type": "program"
+    },
+    {
+      "url": "/encyclopedia/funding-tracks/sbir-and-sttr/",
+      "title": "SBIR and STTR Explained",
+      "hub": "funding-tracks",
+      "type": "program"
+    },
+    {
+      "url": "/encyclopedia/funding-tracks/state-and-local-grants/",
+      "title": "State and Local Government Grants",
+      "hub": "funding-tracks",
+      "type": "program"
+    },
+    {
+      "url": "/encyclopedia/glossary/",
+      "title": "Grant Funding Glossary",
+      "hub": null,
+      "type": "hub"
+    },
+    {
+      "url": "/encyclopedia/",
+      "title": "The OpenGrants Encyclopedia",
+      "hub": null,
+      "type": "hub"
+    },
+    {
+      "url": "/encyclopedia/proposal-craft/abstract-and-project-summary/",
+      "title": "The Abstract and Project Summary",
+      "hub": "proposal-craft",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/",
+      "title": "The Anatomy of a Grant Proposal",
+      "hub": "proposal-craft",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/proposal-craft/compliance-matrix/",
+      "title": "Building a Compliance Matrix",
+      "hub": "proposal-craft",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/proposal-craft/demonstrating-organizational-capacity/",
+      "title": "Demonstrating Organizational Capacity",
+      "hub": "proposal-craft",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/proposal-craft/goals-and-objectives/",
+      "title": "Goals, Objectives, and Activities",
+      "hub": "proposal-craft",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/proposal-craft/",
+      "title": "Writing the Proposal",
+      "hub": null,
+      "type": "hub"
+    },
+    {
+      "url": "/encyclopedia/proposal-craft/letter-of-inquiry/",
+      "title": "The Letter of Inquiry",
+      "hub": "proposal-craft",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/proposal-craft/project-design-and-methodology/",
+      "title": "Writing the Project Design",
+      "hub": "proposal-craft",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/proposal-craft/responding-to-rejection/",
+      "title": "What to Do When a Grant Is Declined",
+      "hub": "proposal-craft",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/proposal-craft/sustainability-plan/",
+      "title": "Writing a Sustainability Plan",
+      "hub": "proposal-craft",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/proposal-craft/writing-a-needs-statement/",
+      "title": "Writing a Statement of Need",
+      "hub": "proposal-craft",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/",
+      "title": "Writing for the Reviewer",
+      "hub": "proposal-craft",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/readiness/fiscal-sponsorship/",
+      "title": "Fiscal Sponsorship for Grant Seekers",
+      "hub": "readiness",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/readiness/grant-documentation-file/",
+      "title": "The Documents Every Grant Application Needs",
+      "hub": "readiness",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/readiness/grant-eligibility-explained/",
+      "title": "Grant Eligibility Explained",
+      "hub": "readiness",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/readiness/grant-readiness-assessment/",
+      "title": "The Grant Readiness Assessment",
+      "hub": "readiness",
+      "type": "process"
+    },
+    {
+      "url": "/encyclopedia/readiness/",
+      "title": "Eligibility and Organizational Readiness",
+      "hub": null,
+      "type": "hub"
+    },
+    {
+      "url": "/encyclopedia/readiness/internal-controls-for-grants/",
+      "title": "Internal Controls for Grant Recipients",
+      "hub": "readiness",
+      "type": "concept"
+    },
+    {
+      "url": "/encyclopedia/readiness/sam-gov-and-uei-registration/",
+      "title": "SAM.gov Registration and the UEI",
+      "hub": "readiness",
+      "type": "process"
+    }
+  ],
+  "edges": [
+    {
+      "from": "/encyclopedia/award-management/building-a-grants-function/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/award-management/building-a-grants-function/",
+      "to": "/encyclopedia/award-management/"
+    },
+    {
+      "from": "/encyclopedia/award-management/building-a-grants-function/",
+      "to": "/encyclopedia/award-management/grant-reporting-requirements/"
+    },
+    {
+      "from": "/encyclopedia/award-management/building-a-grants-function/",
+      "to": "/encyclopedia/award-management/hiring-a-grant-writer/"
+    },
+    {
+      "from": "/encyclopedia/award-management/building-a-grants-function/",
+      "to": "/encyclopedia/award-management/subrecipient-monitoring/"
+    },
+    {
+      "from": "/encyclopedia/award-management/building-a-grants-function/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/award-management/building-a-grants-function/",
+      "to": "/encyclopedia/finding-funding/building-a-grant-pipeline/"
+    },
+    {
+      "from": "/encyclopedia/award-management/building-a-grants-function/",
+      "to": "/encyclopedia/finding-funding/go-no-go-decision/"
+    },
+    {
+      "from": "/encyclopedia/award-management/building-a-grants-function/",
+      "to": "/encyclopedia/readiness/grant-readiness-assessment/"
+    },
+    {
+      "from": "/encyclopedia/award-management/grant-closeout/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/award-management/grant-closeout/",
+      "to": "/encyclopedia/award-management/"
+    },
+    {
+      "from": "/encyclopedia/award-management/grant-closeout/",
+      "to": "/encyclopedia/award-management/grant-reporting-requirements/"
+    },
+    {
+      "from": "/encyclopedia/award-management/grant-closeout/",
+      "to": "/encyclopedia/award-management/prior-approval-and-changes/"
+    },
+    {
+      "from": "/encyclopedia/award-management/grant-closeout/",
+      "to": "/encyclopedia/award-management/reading-the-notice-of-award/"
+    },
+    {
+      "from": "/encyclopedia/award-management/grant-closeout/",
+      "to": "/encyclopedia/award-management/subrecipient-monitoring/"
+    },
+    {
+      "from": "/encyclopedia/award-management/grant-closeout/",
+      "to": "/encyclopedia/award-management/termination-and-appeals/"
+    },
+    {
+      "from": "/encyclopedia/award-management/grant-closeout/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/award-management/grant-closeout/",
+      "to": "/encyclopedia/award-management/time-and-effort-documentation/"
+    },
+    {
+      "from": "/encyclopedia/award-management/grant-closeout/",
+      "to": "/encyclopedia/budgets/grant-cash-flow/"
+    },
+    {
+      "from": "/encyclopedia/award-management/grant-closeout/",
+      "to": "/encyclopedia/budgets/indirect-cost-rates/"
+    },
+    {
+      "from": "/encyclopedia/award-management/grant-reporting-requirements/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/award-management/grant-reporting-requirements/",
+      "to": "/encyclopedia/award-management/"
+    },
+    {
+      "from": "/encyclopedia/award-management/grant-reporting-requirements/",
+      "to": "/encyclopedia/award-management/prior-approval-and-changes/"
+    },
+    {
+      "from": "/encyclopedia/award-management/grant-reporting-requirements/",
+      "to": "/encyclopedia/award-management/reading-the-notice-of-award/"
+    },
+    {
+      "from": "/encyclopedia/award-management/grant-reporting-requirements/",
+      "to": "/encyclopedia/award-management/subrecipient-monitoring/"
+    },
+    {
+      "from": "/encyclopedia/award-management/grant-reporting-requirements/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/award-management/grant-reporting-requirements/",
+      "to": "/encyclopedia/award-management/time-and-effort-documentation/"
+    },
+    {
+      "from": "/encyclopedia/award-management/grant-reporting-requirements/",
+      "to": "/encyclopedia/budgets/grant-cash-flow/"
+    },
+    {
+      "from": "/encyclopedia/award-management/grant-reporting-requirements/",
+      "to": "/encyclopedia/evidence/performance-measurement/"
+    },
+    {
+      "from": "/encyclopedia/award-management/hiring-a-grant-writer/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/award-management/hiring-a-grant-writer/",
+      "to": "/encyclopedia/award-management/"
+    },
+    {
+      "from": "/encyclopedia/award-management/hiring-a-grant-writer/",
+      "to": "/encyclopedia/award-management/building-a-grants-function/"
+    },
+    {
+      "from": "/encyclopedia/award-management/hiring-a-grant-writer/",
+      "to": "/encyclopedia/award-management/grant-reporting-requirements/"
+    },
+    {
+      "from": "/encyclopedia/award-management/hiring-a-grant-writer/",
+      "to": "/encyclopedia/finding-funding/go-no-go-decision/"
+    },
+    {
+      "from": "/encyclopedia/award-management/hiring-a-grant-writer/",
+      "to": "/encyclopedia/proposal-craft/demonstrating-organizational-capacity/"
+    },
+    {
+      "from": "/encyclopedia/award-management/hiring-a-grant-writer/",
+      "to": "/encyclopedia/proposal-craft/writing-a-needs-statement/"
+    },
+    {
+      "from": "/encyclopedia/award-management/hiring-a-grant-writer/",
+      "to": "/encyclopedia/readiness/grant-readiness-assessment/"
+    },
+    {
+      "from": "/encyclopedia/award-management/",
+      "to": "/encyclopedia/award-management/building-a-grants-function/"
+    },
+    {
+      "from": "/encyclopedia/award-management/",
+      "to": "/encyclopedia/award-management/grant-closeout/"
+    },
+    {
+      "from": "/encyclopedia/award-management/",
+      "to": "/encyclopedia/award-management/grant-reporting-requirements/"
+    },
+    {
+      "from": "/encyclopedia/award-management/",
+      "to": "/encyclopedia/award-management/hiring-a-grant-writer/"
+    },
+    {
+      "from": "/encyclopedia/award-management/",
+      "to": "/encyclopedia/award-management/prior-approval-and-changes/"
+    },
+    {
+      "from": "/encyclopedia/award-management/",
+      "to": "/encyclopedia/award-management/reading-the-notice-of-award/"
+    },
+    {
+      "from": "/encyclopedia/award-management/",
+      "to": "/encyclopedia/award-management/subrecipient-monitoring/"
+    },
+    {
+      "from": "/encyclopedia/award-management/",
+      "to": "/encyclopedia/award-management/termination-and-appeals/"
+    },
+    {
+      "from": "/encyclopedia/award-management/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/award-management/",
+      "to": "/encyclopedia/award-management/time-and-effort-documentation/"
+    },
+    {
+      "from": "/encyclopedia/award-management/",
+      "to": "/encyclopedia/budgets/"
+    },
+    {
+      "from": "/encyclopedia/award-management/",
+      "to": "/encyclopedia/evidence/"
+    },
+    {
+      "from": "/encyclopedia/award-management/",
+      "to": "/encyclopedia/finding-funding/"
+    },
+    {
+      "from": "/encyclopedia/award-management/",
+      "to": "/encyclopedia/foundations/"
+    },
+    {
+      "from": "/encyclopedia/award-management/",
+      "to": "/encyclopedia/funding-tracks/"
+    },
+    {
+      "from": "/encyclopedia/award-management/",
+      "to": "/encyclopedia/proposal-craft/"
+    },
+    {
+      "from": "/encyclopedia/award-management/",
+      "to": "/encyclopedia/readiness/"
+    },
+    {
+      "from": "/encyclopedia/award-management/",
+      "to": "/encyclopedia/readiness/internal-controls-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/award-management/prior-approval-and-changes/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/award-management/prior-approval-and-changes/",
+      "to": "/encyclopedia/award-management/"
+    },
+    {
+      "from": "/encyclopedia/award-management/prior-approval-and-changes/",
+      "to": "/encyclopedia/award-management/grant-reporting-requirements/"
+    },
+    {
+      "from": "/encyclopedia/award-management/prior-approval-and-changes/",
+      "to": "/encyclopedia/award-management/reading-the-notice-of-award/"
+    },
+    {
+      "from": "/encyclopedia/award-management/prior-approval-and-changes/",
+      "to": "/encyclopedia/award-management/subrecipient-monitoring/"
+    },
+    {
+      "from": "/encyclopedia/award-management/prior-approval-and-changes/",
+      "to": "/encyclopedia/award-management/termination-and-appeals/"
+    },
+    {
+      "from": "/encyclopedia/award-management/prior-approval-and-changes/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/award-management/prior-approval-and-changes/",
+      "to": "/encyclopedia/budgets/allowable-costs/"
+    },
+    {
+      "from": "/encyclopedia/award-management/reading-the-notice-of-award/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/award-management/reading-the-notice-of-award/",
+      "to": "/encyclopedia/award-management/"
+    },
+    {
+      "from": "/encyclopedia/award-management/reading-the-notice-of-award/",
+      "to": "/encyclopedia/award-management/grant-closeout/"
+    },
+    {
+      "from": "/encyclopedia/award-management/reading-the-notice-of-award/",
+      "to": "/encyclopedia/award-management/grant-reporting-requirements/"
+    },
+    {
+      "from": "/encyclopedia/award-management/reading-the-notice-of-award/",
+      "to": "/encyclopedia/award-management/prior-approval-and-changes/"
+    },
+    {
+      "from": "/encyclopedia/award-management/reading-the-notice-of-award/",
+      "to": "/encyclopedia/award-management/subrecipient-monitoring/"
+    },
+    {
+      "from": "/encyclopedia/award-management/reading-the-notice-of-award/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/award-management/reading-the-notice-of-award/",
+      "to": "/encyclopedia/budgets/grant-cash-flow/"
+    },
+    {
+      "from": "/encyclopedia/award-management/reading-the-notice-of-award/",
+      "to": "/encyclopedia/finding-funding/how-to-read-a-nofo/"
+    },
+    {
+      "from": "/encyclopedia/award-management/reading-the-notice-of-award/",
+      "to": "/encyclopedia/readiness/internal-controls-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/award-management/subrecipient-monitoring/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/award-management/subrecipient-monitoring/",
+      "to": "/encyclopedia/award-management/"
+    },
+    {
+      "from": "/encyclopedia/award-management/subrecipient-monitoring/",
+      "to": "/encyclopedia/award-management/grant-reporting-requirements/"
+    },
+    {
+      "from": "/encyclopedia/award-management/subrecipient-monitoring/",
+      "to": "/encyclopedia/award-management/prior-approval-and-changes/"
+    },
+    {
+      "from": "/encyclopedia/award-management/subrecipient-monitoring/",
+      "to": "/encyclopedia/award-management/reading-the-notice-of-award/"
+    },
+    {
+      "from": "/encyclopedia/award-management/subrecipient-monitoring/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/award-management/subrecipient-monitoring/",
+      "to": "/encyclopedia/budgets/indirect-cost-rates/"
+    },
+    {
+      "from": "/encyclopedia/award-management/subrecipient-monitoring/",
+      "to": "/encyclopedia/readiness/grant-readiness-assessment/"
+    },
+    {
+      "from": "/encyclopedia/award-management/subrecipient-monitoring/",
+      "to": "/encyclopedia/readiness/internal-controls-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/award-management/termination-and-appeals/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/award-management/termination-and-appeals/",
+      "to": "/encyclopedia/award-management/"
+    },
+    {
+      "from": "/encyclopedia/award-management/termination-and-appeals/",
+      "to": "/encyclopedia/award-management/grant-closeout/"
+    },
+    {
+      "from": "/encyclopedia/award-management/termination-and-appeals/",
+      "to": "/encyclopedia/award-management/reading-the-notice-of-award/"
+    },
+    {
+      "from": "/encyclopedia/award-management/termination-and-appeals/",
+      "to": "/encyclopedia/award-management/subrecipient-monitoring/"
+    },
+    {
+      "from": "/encyclopedia/award-management/termination-and-appeals/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/award-management/termination-and-appeals/",
+      "to": "/encyclopedia/budgets/allowable-costs/"
+    },
+    {
+      "from": "/encyclopedia/award-management/termination-and-appeals/",
+      "to": "/encyclopedia/funding-tracks/grants-vs-contracts/"
+    },
+    {
+      "from": "/encyclopedia/award-management/termination-and-appeals/",
+      "to": "/encyclopedia/readiness/internal-controls-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/award-management/the-single-audit/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/award-management/the-single-audit/",
+      "to": "/encyclopedia/award-management/"
+    },
+    {
+      "from": "/encyclopedia/award-management/the-single-audit/",
+      "to": "/encyclopedia/award-management/grant-closeout/"
+    },
+    {
+      "from": "/encyclopedia/award-management/the-single-audit/",
+      "to": "/encyclopedia/award-management/subrecipient-monitoring/"
+    },
+    {
+      "from": "/encyclopedia/award-management/the-single-audit/",
+      "to": "/encyclopedia/award-management/time-and-effort-documentation/"
+    },
+    {
+      "from": "/encyclopedia/award-management/the-single-audit/",
+      "to": "/encyclopedia/budgets/allowable-costs/"
+    },
+    {
+      "from": "/encyclopedia/award-management/the-single-audit/",
+      "to": "/encyclopedia/budgets/indirect-cost-rates/"
+    },
+    {
+      "from": "/encyclopedia/award-management/the-single-audit/",
+      "to": "/encyclopedia/readiness/internal-controls-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/award-management/time-and-effort-documentation/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/award-management/time-and-effort-documentation/",
+      "to": "/encyclopedia/award-management/"
+    },
+    {
+      "from": "/encyclopedia/award-management/time-and-effort-documentation/",
+      "to": "/encyclopedia/award-management/grant-closeout/"
+    },
+    {
+      "from": "/encyclopedia/award-management/time-and-effort-documentation/",
+      "to": "/encyclopedia/award-management/grant-reporting-requirements/"
+    },
+    {
+      "from": "/encyclopedia/award-management/time-and-effort-documentation/",
+      "to": "/encyclopedia/award-management/reading-the-notice-of-award/"
+    },
+    {
+      "from": "/encyclopedia/award-management/time-and-effort-documentation/",
+      "to": "/encyclopedia/award-management/subrecipient-monitoring/"
+    },
+    {
+      "from": "/encyclopedia/award-management/time-and-effort-documentation/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/award-management/time-and-effort-documentation/",
+      "to": "/encyclopedia/budgets/cost-share-and-matching/"
+    },
+    {
+      "from": "/encyclopedia/award-management/time-and-effort-documentation/",
+      "to": "/encyclopedia/readiness/internal-controls-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/budgets/allowable-costs/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/budgets/allowable-costs/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/budgets/allowable-costs/",
+      "to": "/encyclopedia/budgets/"
+    },
+    {
+      "from": "/encyclopedia/budgets/allowable-costs/",
+      "to": "/encyclopedia/budgets/cost-share-and-matching/"
+    },
+    {
+      "from": "/encyclopedia/budgets/allowable-costs/",
+      "to": "/encyclopedia/budgets/direct-vs-indirect-costs/"
+    },
+    {
+      "from": "/encyclopedia/budgets/allowable-costs/",
+      "to": "/encyclopedia/budgets/grant-cash-flow/"
+    },
+    {
+      "from": "/encyclopedia/budgets/allowable-costs/",
+      "to": "/encyclopedia/budgets/indirect-cost-rates/"
+    },
+    {
+      "from": "/encyclopedia/budgets/allowable-costs/",
+      "to": "/encyclopedia/budgets/writing-a-budget-narrative/"
+    },
+    {
+      "from": "/encyclopedia/budgets/allowable-costs/",
+      "to": "/encyclopedia/readiness/internal-controls-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/budgets/cost-share-and-matching/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/budgets/cost-share-and-matching/",
+      "to": "/encyclopedia/award-management/time-and-effort-documentation/"
+    },
+    {
+      "from": "/encyclopedia/budgets/cost-share-and-matching/",
+      "to": "/encyclopedia/budgets/"
+    },
+    {
+      "from": "/encyclopedia/budgets/cost-share-and-matching/",
+      "to": "/encyclopedia/budgets/allowable-costs/"
+    },
+    {
+      "from": "/encyclopedia/budgets/cost-share-and-matching/",
+      "to": "/encyclopedia/budgets/grant-budget-anatomy/"
+    },
+    {
+      "from": "/encyclopedia/budgets/cost-share-and-matching/",
+      "to": "/encyclopedia/budgets/indirect-cost-rates/"
+    },
+    {
+      "from": "/encyclopedia/budgets/cost-share-and-matching/",
+      "to": "/encyclopedia/finding-funding/go-no-go-decision/"
+    },
+    {
+      "from": "/encyclopedia/budgets/direct-vs-indirect-costs/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/budgets/direct-vs-indirect-costs/",
+      "to": "/encyclopedia/budgets/"
+    },
+    {
+      "from": "/encyclopedia/budgets/direct-vs-indirect-costs/",
+      "to": "/encyclopedia/budgets/allowable-costs/"
+    },
+    {
+      "from": "/encyclopedia/budgets/direct-vs-indirect-costs/",
+      "to": "/encyclopedia/budgets/grant-budget-anatomy/"
+    },
+    {
+      "from": "/encyclopedia/budgets/direct-vs-indirect-costs/",
+      "to": "/encyclopedia/budgets/indirect-cost-rates/"
+    },
+    {
+      "from": "/encyclopedia/budgets/direct-vs-indirect-costs/",
+      "to": "/encyclopedia/budgets/true-cost-of-programs/"
+    },
+    {
+      "from": "/encyclopedia/budgets/grant-budget-anatomy/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/budgets/grant-budget-anatomy/",
+      "to": "/encyclopedia/award-management/prior-approval-and-changes/"
+    },
+    {
+      "from": "/encyclopedia/budgets/grant-budget-anatomy/",
+      "to": "/encyclopedia/award-management/subrecipient-monitoring/"
+    },
+    {
+      "from": "/encyclopedia/budgets/grant-budget-anatomy/",
+      "to": "/encyclopedia/budgets/"
+    },
+    {
+      "from": "/encyclopedia/budgets/grant-budget-anatomy/",
+      "to": "/encyclopedia/budgets/allowable-costs/"
+    },
+    {
+      "from": "/encyclopedia/budgets/grant-budget-anatomy/",
+      "to": "/encyclopedia/budgets/cost-share-and-matching/"
+    },
+    {
+      "from": "/encyclopedia/budgets/grant-budget-anatomy/",
+      "to": "/encyclopedia/budgets/direct-vs-indirect-costs/"
+    },
+    {
+      "from": "/encyclopedia/budgets/grant-budget-anatomy/",
+      "to": "/encyclopedia/budgets/indirect-cost-rates/"
+    },
+    {
+      "from": "/encyclopedia/budgets/grant-budget-anatomy/",
+      "to": "/encyclopedia/budgets/writing-a-budget-narrative/"
+    },
+    {
+      "from": "/encyclopedia/budgets/grant-cash-flow/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/budgets/grant-cash-flow/",
+      "to": "/encyclopedia/award-management/reading-the-notice-of-award/"
+    },
+    {
+      "from": "/encyclopedia/budgets/grant-cash-flow/",
+      "to": "/encyclopedia/budgets/"
+    },
+    {
+      "from": "/encyclopedia/budgets/grant-cash-flow/",
+      "to": "/encyclopedia/budgets/cost-share-and-matching/"
+    },
+    {
+      "from": "/encyclopedia/budgets/grant-cash-flow/",
+      "to": "/encyclopedia/budgets/true-cost-of-programs/"
+    },
+    {
+      "from": "/encyclopedia/budgets/grant-cash-flow/",
+      "to": "/encyclopedia/finding-funding/go-no-go-decision/"
+    },
+    {
+      "from": "/encyclopedia/budgets/grant-cash-flow/",
+      "to": "/encyclopedia/readiness/internal-controls-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/budgets/",
+      "to": "/encyclopedia/award-management/"
+    },
+    {
+      "from": "/encyclopedia/budgets/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/budgets/",
+      "to": "/encyclopedia/budgets/allowable-costs/"
+    },
+    {
+      "from": "/encyclopedia/budgets/",
+      "to": "/encyclopedia/budgets/cost-share-and-matching/"
+    },
+    {
+      "from": "/encyclopedia/budgets/",
+      "to": "/encyclopedia/budgets/direct-vs-indirect-costs/"
+    },
+    {
+      "from": "/encyclopedia/budgets/",
+      "to": "/encyclopedia/budgets/grant-budget-anatomy/"
+    },
+    {
+      "from": "/encyclopedia/budgets/",
+      "to": "/encyclopedia/budgets/grant-cash-flow/"
+    },
+    {
+      "from": "/encyclopedia/budgets/",
+      "to": "/encyclopedia/budgets/indirect-cost-rates/"
+    },
+    {
+      "from": "/encyclopedia/budgets/",
+      "to": "/encyclopedia/budgets/true-cost-of-programs/"
+    },
+    {
+      "from": "/encyclopedia/budgets/",
+      "to": "/encyclopedia/budgets/writing-a-budget-narrative/"
+    },
+    {
+      "from": "/encyclopedia/budgets/",
+      "to": "/encyclopedia/evidence/"
+    },
+    {
+      "from": "/encyclopedia/budgets/",
+      "to": "/encyclopedia/finding-funding/"
+    },
+    {
+      "from": "/encyclopedia/budgets/",
+      "to": "/encyclopedia/finding-funding/go-no-go-decision/"
+    },
+    {
+      "from": "/encyclopedia/budgets/",
+      "to": "/encyclopedia/foundations/"
+    },
+    {
+      "from": "/encyclopedia/budgets/",
+      "to": "/encyclopedia/funding-tracks/"
+    },
+    {
+      "from": "/encyclopedia/budgets/",
+      "to": "/encyclopedia/proposal-craft/"
+    },
+    {
+      "from": "/encyclopedia/budgets/",
+      "to": "/encyclopedia/proposal-craft/project-design-and-methodology/"
+    },
+    {
+      "from": "/encyclopedia/budgets/",
+      "to": "/encyclopedia/readiness/"
+    },
+    {
+      "from": "/encyclopedia/budgets/indirect-cost-rates/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/budgets/indirect-cost-rates/",
+      "to": "/encyclopedia/award-management/subrecipient-monitoring/"
+    },
+    {
+      "from": "/encyclopedia/budgets/indirect-cost-rates/",
+      "to": "/encyclopedia/budgets/"
+    },
+    {
+      "from": "/encyclopedia/budgets/indirect-cost-rates/",
+      "to": "/encyclopedia/budgets/cost-share-and-matching/"
+    },
+    {
+      "from": "/encyclopedia/budgets/indirect-cost-rates/",
+      "to": "/encyclopedia/budgets/direct-vs-indirect-costs/"
+    },
+    {
+      "from": "/encyclopedia/budgets/indirect-cost-rates/",
+      "to": "/encyclopedia/budgets/grant-budget-anatomy/"
+    },
+    {
+      "from": "/encyclopedia/budgets/indirect-cost-rates/",
+      "to": "/encyclopedia/budgets/true-cost-of-programs/"
+    },
+    {
+      "from": "/encyclopedia/budgets/true-cost-of-programs/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/budgets/true-cost-of-programs/",
+      "to": "/encyclopedia/budgets/"
+    },
+    {
+      "from": "/encyclopedia/budgets/true-cost-of-programs/",
+      "to": "/encyclopedia/budgets/direct-vs-indirect-costs/"
+    },
+    {
+      "from": "/encyclopedia/budgets/true-cost-of-programs/",
+      "to": "/encyclopedia/budgets/grant-cash-flow/"
+    },
+    {
+      "from": "/encyclopedia/budgets/true-cost-of-programs/",
+      "to": "/encyclopedia/budgets/indirect-cost-rates/"
+    },
+    {
+      "from": "/encyclopedia/budgets/true-cost-of-programs/",
+      "to": "/encyclopedia/readiness/"
+    },
+    {
+      "from": "/encyclopedia/budgets/writing-a-budget-narrative/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/budgets/writing-a-budget-narrative/",
+      "to": "/encyclopedia/award-management/time-and-effort-documentation/"
+    },
+    {
+      "from": "/encyclopedia/budgets/writing-a-budget-narrative/",
+      "to": "/encyclopedia/budgets/"
+    },
+    {
+      "from": "/encyclopedia/budgets/writing-a-budget-narrative/",
+      "to": "/encyclopedia/budgets/allowable-costs/"
+    },
+    {
+      "from": "/encyclopedia/budgets/writing-a-budget-narrative/",
+      "to": "/encyclopedia/budgets/grant-budget-anatomy/"
+    },
+    {
+      "from": "/encyclopedia/budgets/writing-a-budget-narrative/",
+      "to": "/encyclopedia/budgets/indirect-cost-rates/"
+    },
+    {
+      "from": "/encyclopedia/budgets/writing-a-budget-narrative/",
+      "to": "/encyclopedia/proposal-craft/compliance-matrix/"
+    },
+    {
+      "from": "/encyclopedia/budgets/writing-a-budget-narrative/",
+      "to": "/encyclopedia/proposal-craft/project-design-and-methodology/"
+    },
+    {
+      "from": "/encyclopedia/evidence/data-sources-for-needs-statements/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/evidence/data-sources-for-needs-statements/",
+      "to": "/encyclopedia/evidence/"
+    },
+    {
+      "from": "/encyclopedia/evidence/data-sources-for-needs-statements/",
+      "to": "/encyclopedia/evidence/levels-of-evidence/"
+    },
+    {
+      "from": "/encyclopedia/evidence/data-sources-for-needs-statements/",
+      "to": "/encyclopedia/evidence/performance-measurement/"
+    },
+    {
+      "from": "/encyclopedia/evidence/data-sources-for-needs-statements/",
+      "to": "/encyclopedia/evidence/writing-an-evaluation-plan/"
+    },
+    {
+      "from": "/encyclopedia/evidence/data-sources-for-needs-statements/",
+      "to": "/encyclopedia/finding-funding/free-grant-data-sources/"
+    },
+    {
+      "from": "/encyclopedia/evidence/data-sources-for-needs-statements/",
+      "to": "/encyclopedia/proposal-craft/writing-a-needs-statement/"
+    },
+    {
+      "from": "/encyclopedia/evidence/",
+      "to": "/encyclopedia/award-management/"
+    },
+    {
+      "from": "/encyclopedia/evidence/",
+      "to": "/encyclopedia/award-management/grant-reporting-requirements/"
+    },
+    {
+      "from": "/encyclopedia/evidence/",
+      "to": "/encyclopedia/budgets/"
+    },
+    {
+      "from": "/encyclopedia/evidence/",
+      "to": "/encyclopedia/evidence/data-sources-for-needs-statements/"
+    },
+    {
+      "from": "/encyclopedia/evidence/",
+      "to": "/encyclopedia/evidence/levels-of-evidence/"
+    },
+    {
+      "from": "/encyclopedia/evidence/",
+      "to": "/encyclopedia/evidence/logic-models/"
+    },
+    {
+      "from": "/encyclopedia/evidence/",
+      "to": "/encyclopedia/evidence/outputs-vs-outcomes/"
+    },
+    {
+      "from": "/encyclopedia/evidence/",
+      "to": "/encyclopedia/evidence/performance-measurement/"
+    },
+    {
+      "from": "/encyclopedia/evidence/",
+      "to": "/encyclopedia/evidence/theory-of-change/"
+    },
+    {
+      "from": "/encyclopedia/evidence/",
+      "to": "/encyclopedia/evidence/writing-an-evaluation-plan/"
+    },
+    {
+      "from": "/encyclopedia/evidence/",
+      "to": "/encyclopedia/finding-funding/"
+    },
+    {
+      "from": "/encyclopedia/evidence/",
+      "to": "/encyclopedia/foundations/"
+    },
+    {
+      "from": "/encyclopedia/evidence/",
+      "to": "/encyclopedia/funding-tracks/"
+    },
+    {
+      "from": "/encyclopedia/evidence/",
+      "to": "/encyclopedia/proposal-craft/"
+    },
+    {
+      "from": "/encyclopedia/evidence/",
+      "to": "/encyclopedia/proposal-craft/goals-and-objectives/"
+    },
+    {
+      "from": "/encyclopedia/evidence/",
+      "to": "/encyclopedia/proposal-craft/writing-a-needs-statement/"
+    },
+    {
+      "from": "/encyclopedia/evidence/",
+      "to": "/encyclopedia/readiness/"
+    },
+    {
+      "from": "/encyclopedia/evidence/levels-of-evidence/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/evidence/levels-of-evidence/",
+      "to": "/encyclopedia/evidence/"
+    },
+    {
+      "from": "/encyclopedia/evidence/levels-of-evidence/",
+      "to": "/encyclopedia/evidence/logic-models/"
+    },
+    {
+      "from": "/encyclopedia/evidence/levels-of-evidence/",
+      "to": "/encyclopedia/evidence/outputs-vs-outcomes/"
+    },
+    {
+      "from": "/encyclopedia/evidence/levels-of-evidence/",
+      "to": "/encyclopedia/evidence/performance-measurement/"
+    },
+    {
+      "from": "/encyclopedia/evidence/levels-of-evidence/",
+      "to": "/encyclopedia/evidence/theory-of-change/"
+    },
+    {
+      "from": "/encyclopedia/evidence/levels-of-evidence/",
+      "to": "/encyclopedia/evidence/writing-an-evaluation-plan/"
+    },
+    {
+      "from": "/encyclopedia/evidence/levels-of-evidence/",
+      "to": "/encyclopedia/finding-funding/how-to-read-a-nofo/"
+    },
+    {
+      "from": "/encyclopedia/evidence/logic-models/",
+      "to": "/encyclopedia/award-management/grant-reporting-requirements/"
+    },
+    {
+      "from": "/encyclopedia/evidence/logic-models/",
+      "to": "/encyclopedia/evidence/"
+    },
+    {
+      "from": "/encyclopedia/evidence/logic-models/",
+      "to": "/encyclopedia/evidence/data-sources-for-needs-statements/"
+    },
+    {
+      "from": "/encyclopedia/evidence/logic-models/",
+      "to": "/encyclopedia/evidence/levels-of-evidence/"
+    },
+    {
+      "from": "/encyclopedia/evidence/logic-models/",
+      "to": "/encyclopedia/evidence/outputs-vs-outcomes/"
+    },
+    {
+      "from": "/encyclopedia/evidence/logic-models/",
+      "to": "/encyclopedia/evidence/performance-measurement/"
+    },
+    {
+      "from": "/encyclopedia/evidence/logic-models/",
+      "to": "/encyclopedia/evidence/writing-an-evaluation-plan/"
+    },
+    {
+      "from": "/encyclopedia/evidence/logic-models/",
+      "to": "/encyclopedia/proposal-craft/goals-and-objectives/"
+    },
+    {
+      "from": "/encyclopedia/evidence/outputs-vs-outcomes/",
+      "to": "/encyclopedia/award-management/grant-reporting-requirements/"
+    },
+    {
+      "from": "/encyclopedia/evidence/outputs-vs-outcomes/",
+      "to": "/encyclopedia/evidence/"
+    },
+    {
+      "from": "/encyclopedia/evidence/outputs-vs-outcomes/",
+      "to": "/encyclopedia/evidence/data-sources-for-needs-statements/"
+    },
+    {
+      "from": "/encyclopedia/evidence/outputs-vs-outcomes/",
+      "to": "/encyclopedia/evidence/levels-of-evidence/"
+    },
+    {
+      "from": "/encyclopedia/evidence/outputs-vs-outcomes/",
+      "to": "/encyclopedia/evidence/logic-models/"
+    },
+    {
+      "from": "/encyclopedia/evidence/outputs-vs-outcomes/",
+      "to": "/encyclopedia/evidence/performance-measurement/"
+    },
+    {
+      "from": "/encyclopedia/evidence/outputs-vs-outcomes/",
+      "to": "/encyclopedia/evidence/theory-of-change/"
+    },
+    {
+      "from": "/encyclopedia/evidence/outputs-vs-outcomes/",
+      "to": "/encyclopedia/evidence/writing-an-evaluation-plan/"
+    },
+    {
+      "from": "/encyclopedia/evidence/outputs-vs-outcomes/",
+      "to": "/encyclopedia/proposal-craft/goals-and-objectives/"
+    },
+    {
+      "from": "/encyclopedia/evidence/performance-measurement/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/evidence/performance-measurement/",
+      "to": "/encyclopedia/award-management/grant-reporting-requirements/"
+    },
+    {
+      "from": "/encyclopedia/evidence/performance-measurement/",
+      "to": "/encyclopedia/evidence/"
+    },
+    {
+      "from": "/encyclopedia/evidence/performance-measurement/",
+      "to": "/encyclopedia/evidence/data-sources-for-needs-statements/"
+    },
+    {
+      "from": "/encyclopedia/evidence/performance-measurement/",
+      "to": "/encyclopedia/evidence/levels-of-evidence/"
+    },
+    {
+      "from": "/encyclopedia/evidence/performance-measurement/",
+      "to": "/encyclopedia/evidence/logic-models/"
+    },
+    {
+      "from": "/encyclopedia/evidence/performance-measurement/",
+      "to": "/encyclopedia/evidence/outputs-vs-outcomes/"
+    },
+    {
+      "from": "/encyclopedia/evidence/performance-measurement/",
+      "to": "/encyclopedia/evidence/writing-an-evaluation-plan/"
+    },
+    {
+      "from": "/encyclopedia/evidence/performance-measurement/",
+      "to": "/encyclopedia/proposal-craft/goals-and-objectives/"
+    },
+    {
+      "from": "/encyclopedia/evidence/theory-of-change/",
+      "to": "/encyclopedia/evidence/"
+    },
+    {
+      "from": "/encyclopedia/evidence/theory-of-change/",
+      "to": "/encyclopedia/evidence/levels-of-evidence/"
+    },
+    {
+      "from": "/encyclopedia/evidence/theory-of-change/",
+      "to": "/encyclopedia/evidence/logic-models/"
+    },
+    {
+      "from": "/encyclopedia/evidence/theory-of-change/",
+      "to": "/encyclopedia/evidence/outputs-vs-outcomes/"
+    },
+    {
+      "from": "/encyclopedia/evidence/theory-of-change/",
+      "to": "/encyclopedia/evidence/performance-measurement/"
+    },
+    {
+      "from": "/encyclopedia/evidence/theory-of-change/",
+      "to": "/encyclopedia/evidence/writing-an-evaluation-plan/"
+    },
+    {
+      "from": "/encyclopedia/evidence/theory-of-change/",
+      "to": "/encyclopedia/proposal-craft/project-design-and-methodology/"
+    },
+    {
+      "from": "/encyclopedia/evidence/theory-of-change/",
+      "to": "/encyclopedia/proposal-craft/writing-a-needs-statement/"
+    },
+    {
+      "from": "/encyclopedia/evidence/writing-an-evaluation-plan/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/evidence/writing-an-evaluation-plan/",
+      "to": "/encyclopedia/evidence/"
+    },
+    {
+      "from": "/encyclopedia/evidence/writing-an-evaluation-plan/",
+      "to": "/encyclopedia/evidence/data-sources-for-needs-statements/"
+    },
+    {
+      "from": "/encyclopedia/evidence/writing-an-evaluation-plan/",
+      "to": "/encyclopedia/evidence/levels-of-evidence/"
+    },
+    {
+      "from": "/encyclopedia/evidence/writing-an-evaluation-plan/",
+      "to": "/encyclopedia/evidence/logic-models/"
+    },
+    {
+      "from": "/encyclopedia/evidence/writing-an-evaluation-plan/",
+      "to": "/encyclopedia/evidence/outputs-vs-outcomes/"
+    },
+    {
+      "from": "/encyclopedia/evidence/writing-an-evaluation-plan/",
+      "to": "/encyclopedia/evidence/performance-measurement/"
+    },
+    {
+      "from": "/encyclopedia/evidence/writing-an-evaluation-plan/",
+      "to": "/encyclopedia/evidence/theory-of-change/"
+    },
+    {
+      "from": "/encyclopedia/evidence/writing-an-evaluation-plan/",
+      "to": "/encyclopedia/proposal-craft/project-design-and-methodology/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/building-a-grant-pipeline/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/building-a-grant-pipeline/",
+      "to": "/encyclopedia/award-management/building-a-grants-function/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/building-a-grant-pipeline/",
+      "to": "/encyclopedia/finding-funding/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/building-a-grant-pipeline/",
+      "to": "/encyclopedia/finding-funding/free-grant-data-sources/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/building-a-grant-pipeline/",
+      "to": "/encyclopedia/finding-funding/funder-research-990/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/building-a-grant-pipeline/",
+      "to": "/encyclopedia/finding-funding/go-no-go-decision/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/building-a-grant-pipeline/",
+      "to": "/encyclopedia/finding-funding/grant-calendar-and-timing/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/building-a-grant-pipeline/",
+      "to": "/encyclopedia/finding-funding/how-to-read-a-nofo/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/building-a-grant-pipeline/",
+      "to": "/encyclopedia/finding-funding/how-to-search-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/building-a-grant-pipeline/",
+      "to": "/encyclopedia/readiness/grant-readiness-assessment/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/free-grant-data-sources/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/free-grant-data-sources/",
+      "to": "/encyclopedia/evidence/data-sources-for-needs-statements/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/free-grant-data-sources/",
+      "to": "/encyclopedia/finding-funding/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/free-grant-data-sources/",
+      "to": "/encyclopedia/finding-funding/building-a-grant-pipeline/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/free-grant-data-sources/",
+      "to": "/encyclopedia/finding-funding/funder-research-990/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/free-grant-data-sources/",
+      "to": "/encyclopedia/finding-funding/go-no-go-decision/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/free-grant-data-sources/",
+      "to": "/encyclopedia/finding-funding/grant-calendar-and-timing/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/free-grant-data-sources/",
+      "to": "/encyclopedia/finding-funding/how-to-read-a-nofo/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/free-grant-data-sources/",
+      "to": "/encyclopedia/finding-funding/how-to-search-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/free-grant-data-sources/",
+      "to": "/encyclopedia/funding-tracks/sbir-and-sttr/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/free-grant-data-sources/",
+      "to": "/encyclopedia/funding-tracks/state-and-local-grants/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/funder-research-990/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/funder-research-990/",
+      "to": "/encyclopedia/finding-funding/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/funder-research-990/",
+      "to": "/encyclopedia/finding-funding/building-a-grant-pipeline/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/funder-research-990/",
+      "to": "/encyclopedia/finding-funding/free-grant-data-sources/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/funder-research-990/",
+      "to": "/encyclopedia/finding-funding/go-no-go-decision/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/funder-research-990/",
+      "to": "/encyclopedia/finding-funding/grant-calendar-and-timing/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/funder-research-990/",
+      "to": "/encyclopedia/finding-funding/how-to-search-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/funder-research-990/",
+      "to": "/encyclopedia/funding-tracks/community-foundations-and-dafs/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/funder-research-990/",
+      "to": "/encyclopedia/funding-tracks/foundation-grants/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/funder-research-990/",
+      "to": "/encyclopedia/proposal-craft/letter-of-inquiry/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/go-no-go-decision/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/go-no-go-decision/",
+      "to": "/encyclopedia/budgets/cost-share-and-matching/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/go-no-go-decision/",
+      "to": "/encyclopedia/budgets/grant-cash-flow/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/go-no-go-decision/",
+      "to": "/encyclopedia/finding-funding/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/go-no-go-decision/",
+      "to": "/encyclopedia/finding-funding/building-a-grant-pipeline/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/go-no-go-decision/",
+      "to": "/encyclopedia/finding-funding/free-grant-data-sources/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/go-no-go-decision/",
+      "to": "/encyclopedia/finding-funding/grant-calendar-and-timing/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/go-no-go-decision/",
+      "to": "/encyclopedia/finding-funding/how-to-read-a-nofo/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/go-no-go-decision/",
+      "to": "/encyclopedia/finding-funding/how-to-search-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/go-no-go-decision/",
+      "to": "/encyclopedia/readiness/grant-eligibility-explained/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/grant-calendar-and-timing/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/grant-calendar-and-timing/",
+      "to": "/encyclopedia/finding-funding/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/grant-calendar-and-timing/",
+      "to": "/encyclopedia/finding-funding/building-a-grant-pipeline/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/grant-calendar-and-timing/",
+      "to": "/encyclopedia/finding-funding/free-grant-data-sources/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/grant-calendar-and-timing/",
+      "to": "/encyclopedia/finding-funding/funder-research-990/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/grant-calendar-and-timing/",
+      "to": "/encyclopedia/finding-funding/go-no-go-decision/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/grant-calendar-and-timing/",
+      "to": "/encyclopedia/finding-funding/how-to-read-a-nofo/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/grant-calendar-and-timing/",
+      "to": "/encyclopedia/finding-funding/how-to-search-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/grant-calendar-and-timing/",
+      "to": "/encyclopedia/funding-tracks/federal-grants-explained/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/grant-calendar-and-timing/",
+      "to": "/encyclopedia/readiness/sam-gov-and-uei-registration/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/how-to-read-a-nofo/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/how-to-read-a-nofo/",
+      "to": "/encyclopedia/finding-funding/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/how-to-read-a-nofo/",
+      "to": "/encyclopedia/finding-funding/building-a-grant-pipeline/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/how-to-read-a-nofo/",
+      "to": "/encyclopedia/finding-funding/go-no-go-decision/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/how-to-read-a-nofo/",
+      "to": "/encyclopedia/finding-funding/how-to-search-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/how-to-read-a-nofo/",
+      "to": "/encyclopedia/funding-tracks/federal-grants-explained/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/how-to-read-a-nofo/",
+      "to": "/encyclopedia/proposal-craft/compliance-matrix/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/how-to-read-a-nofo/",
+      "to": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/how-to-read-a-nofo/",
+      "to": "/encyclopedia/readiness/sam-gov-and-uei-registration/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/how-to-search-for-grants/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/how-to-search-for-grants/",
+      "to": "/encyclopedia/finding-funding/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/how-to-search-for-grants/",
+      "to": "/encyclopedia/finding-funding/building-a-grant-pipeline/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/how-to-search-for-grants/",
+      "to": "/encyclopedia/finding-funding/free-grant-data-sources/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/how-to-search-for-grants/",
+      "to": "/encyclopedia/finding-funding/funder-research-990/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/how-to-search-for-grants/",
+      "to": "/encyclopedia/finding-funding/go-no-go-decision/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/how-to-search-for-grants/",
+      "to": "/encyclopedia/finding-funding/grant-calendar-and-timing/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/how-to-search-for-grants/",
+      "to": "/encyclopedia/finding-funding/how-to-read-a-nofo/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/how-to-search-for-grants/",
+      "to": "/encyclopedia/readiness/grant-eligibility-explained/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/how-to-search-for-grants/",
+      "to": "/encyclopedia/readiness/sam-gov-and-uei-registration/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/",
+      "to": "/encyclopedia/award-management/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/",
+      "to": "/encyclopedia/budgets/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/",
+      "to": "/encyclopedia/evidence/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/",
+      "to": "/encyclopedia/finding-funding/building-a-grant-pipeline/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/",
+      "to": "/encyclopedia/finding-funding/free-grant-data-sources/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/",
+      "to": "/encyclopedia/finding-funding/funder-research-990/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/",
+      "to": "/encyclopedia/finding-funding/go-no-go-decision/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/",
+      "to": "/encyclopedia/finding-funding/grant-calendar-and-timing/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/",
+      "to": "/encyclopedia/finding-funding/how-to-read-a-nofo/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/",
+      "to": "/encyclopedia/finding-funding/how-to-search-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/",
+      "to": "/encyclopedia/foundations/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/",
+      "to": "/encyclopedia/funding-tracks/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/",
+      "to": "/encyclopedia/proposal-craft/"
+    },
+    {
+      "from": "/encyclopedia/finding-funding/",
+      "to": "/encyclopedia/readiness/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grant-funding-lifecycle/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grant-funding-lifecycle/",
+      "to": "/encyclopedia/award-management/grant-closeout/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grant-funding-lifecycle/",
+      "to": "/encyclopedia/award-management/grant-reporting-requirements/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grant-funding-lifecycle/",
+      "to": "/encyclopedia/finding-funding/grant-calendar-and-timing/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grant-funding-lifecycle/",
+      "to": "/encyclopedia/finding-funding/how-to-read-a-nofo/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grant-funding-lifecycle/",
+      "to": "/encyclopedia/foundations/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grant-funding-lifecycle/",
+      "to": "/encyclopedia/foundations/grant-funding-myths/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grant-funding-lifecycle/",
+      "to": "/encyclopedia/foundations/how-funders-decide/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grant-funding-lifecycle/",
+      "to": "/encyclopedia/foundations/types-of-grants/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grant-funding-lifecycle/",
+      "to": "/encyclopedia/foundations/what-is-a-grant/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grant-funding-myths/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grant-funding-myths/",
+      "to": "/encyclopedia/award-management/hiring-a-grant-writer/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grant-funding-myths/",
+      "to": "/encyclopedia/budgets/true-cost-of-programs/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grant-funding-myths/",
+      "to": "/encyclopedia/foundations/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grant-funding-myths/",
+      "to": "/encyclopedia/foundations/grants-vs-other-capital/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grant-funding-myths/",
+      "to": "/encyclopedia/foundations/how-funders-decide/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grant-funding-myths/",
+      "to": "/encyclopedia/foundations/what-is-a-grant/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grant-funding-myths/",
+      "to": "/encyclopedia/foundations/who-funds-what/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grant-funding-myths/",
+      "to": "/encyclopedia/funding-tracks/sbir-and-sttr/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grant-funding-myths/",
+      "to": "/encyclopedia/funding-tracks/state-and-local-grants/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grant-funding-myths/",
+      "to": "/encyclopedia/readiness/fiscal-sponsorship/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grants-vs-other-capital/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grants-vs-other-capital/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grants-vs-other-capital/",
+      "to": "/encyclopedia/budgets/indirect-cost-rates/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grants-vs-other-capital/",
+      "to": "/encyclopedia/finding-funding/go-no-go-decision/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grants-vs-other-capital/",
+      "to": "/encyclopedia/foundations/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grants-vs-other-capital/",
+      "to": "/encyclopedia/foundations/how-funders-decide/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grants-vs-other-capital/",
+      "to": "/encyclopedia/foundations/types-of-grants/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grants-vs-other-capital/",
+      "to": "/encyclopedia/foundations/what-is-a-grant/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grants-vs-other-capital/",
+      "to": "/encyclopedia/funding-tracks/grants-vs-contracts/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grants-vs-other-capital/",
+      "to": "/encyclopedia/funding-tracks/nondilutive-capital-for-startups/"
+    },
+    {
+      "from": "/encyclopedia/foundations/grants-vs-other-capital/",
+      "to": "/encyclopedia/funding-tracks/sbir-and-sttr/"
+    },
+    {
+      "from": "/encyclopedia/foundations/how-funders-decide/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/foundations/how-funders-decide/",
+      "to": "/encyclopedia/finding-funding/how-to-read-a-nofo/"
+    },
+    {
+      "from": "/encyclopedia/foundations/how-funders-decide/",
+      "to": "/encyclopedia/foundations/"
+    },
+    {
+      "from": "/encyclopedia/foundations/how-funders-decide/",
+      "to": "/encyclopedia/foundations/grant-funding-lifecycle/"
+    },
+    {
+      "from": "/encyclopedia/foundations/how-funders-decide/",
+      "to": "/encyclopedia/foundations/grant-funding-myths/"
+    },
+    {
+      "from": "/encyclopedia/foundations/how-funders-decide/",
+      "to": "/encyclopedia/foundations/what-is-a-grant/"
+    },
+    {
+      "from": "/encyclopedia/foundations/how-funders-decide/",
+      "to": "/encyclopedia/funding-tracks/foundation-grants/"
+    },
+    {
+      "from": "/encyclopedia/foundations/how-funders-decide/",
+      "to": "/encyclopedia/proposal-craft/responding-to-rejection/"
+    },
+    {
+      "from": "/encyclopedia/foundations/how-funders-decide/",
+      "to": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/"
+    },
+    {
+      "from": "/encyclopedia/foundations/how-funders-decide/",
+      "to": "/encyclopedia/readiness/internal-controls-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/foundations/",
+      "to": "/encyclopedia/award-management/"
+    },
+    {
+      "from": "/encyclopedia/foundations/",
+      "to": "/encyclopedia/budgets/"
+    },
+    {
+      "from": "/encyclopedia/foundations/",
+      "to": "/encyclopedia/evidence/"
+    },
+    {
+      "from": "/encyclopedia/foundations/",
+      "to": "/encyclopedia/finding-funding/"
+    },
+    {
+      "from": "/encyclopedia/foundations/",
+      "to": "/encyclopedia/foundations/grant-funding-lifecycle/"
+    },
+    {
+      "from": "/encyclopedia/foundations/",
+      "to": "/encyclopedia/foundations/grant-funding-myths/"
+    },
+    {
+      "from": "/encyclopedia/foundations/",
+      "to": "/encyclopedia/foundations/grants-vs-other-capital/"
+    },
+    {
+      "from": "/encyclopedia/foundations/",
+      "to": "/encyclopedia/foundations/how-funders-decide/"
+    },
+    {
+      "from": "/encyclopedia/foundations/",
+      "to": "/encyclopedia/foundations/types-of-grants/"
+    },
+    {
+      "from": "/encyclopedia/foundations/",
+      "to": "/encyclopedia/foundations/what-is-a-grant/"
+    },
+    {
+      "from": "/encyclopedia/foundations/",
+      "to": "/encyclopedia/foundations/who-funds-what/"
+    },
+    {
+      "from": "/encyclopedia/foundations/",
+      "to": "/encyclopedia/funding-tracks/"
+    },
+    {
+      "from": "/encyclopedia/foundations/",
+      "to": "/encyclopedia/proposal-craft/"
+    },
+    {
+      "from": "/encyclopedia/foundations/",
+      "to": "/encyclopedia/readiness/"
+    },
+    {
+      "from": "/encyclopedia/foundations/types-of-grants/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/foundations/types-of-grants/",
+      "to": "/encyclopedia/award-management/subrecipient-monitoring/"
+    },
+    {
+      "from": "/encyclopedia/foundations/types-of-grants/",
+      "to": "/encyclopedia/foundations/"
+    },
+    {
+      "from": "/encyclopedia/foundations/types-of-grants/",
+      "to": "/encyclopedia/foundations/grant-funding-lifecycle/"
+    },
+    {
+      "from": "/encyclopedia/foundations/types-of-grants/",
+      "to": "/encyclopedia/foundations/what-is-a-grant/"
+    },
+    {
+      "from": "/encyclopedia/foundations/types-of-grants/",
+      "to": "/encyclopedia/foundations/who-funds-what/"
+    },
+    {
+      "from": "/encyclopedia/foundations/types-of-grants/",
+      "to": "/encyclopedia/funding-tracks/grants-vs-contracts/"
+    },
+    {
+      "from": "/encyclopedia/foundations/types-of-grants/",
+      "to": "/encyclopedia/funding-tracks/state-and-local-grants/"
+    },
+    {
+      "from": "/encyclopedia/foundations/what-is-a-grant/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/foundations/what-is-a-grant/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/foundations/what-is-a-grant/",
+      "to": "/encyclopedia/foundations/"
+    },
+    {
+      "from": "/encyclopedia/foundations/what-is-a-grant/",
+      "to": "/encyclopedia/foundations/grants-vs-other-capital/"
+    },
+    {
+      "from": "/encyclopedia/foundations/what-is-a-grant/",
+      "to": "/encyclopedia/foundations/types-of-grants/"
+    },
+    {
+      "from": "/encyclopedia/foundations/what-is-a-grant/",
+      "to": "/encyclopedia/foundations/who-funds-what/"
+    },
+    {
+      "from": "/encyclopedia/foundations/what-is-a-grant/",
+      "to": "/encyclopedia/funding-tracks/grants-vs-contracts/"
+    },
+    {
+      "from": "/encyclopedia/foundations/what-is-a-grant/",
+      "to": "/encyclopedia/readiness/grant-eligibility-explained/"
+    },
+    {
+      "from": "/encyclopedia/foundations/who-funds-what/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/foundations/who-funds-what/",
+      "to": "/encyclopedia/finding-funding/funder-research-990/"
+    },
+    {
+      "from": "/encyclopedia/foundations/who-funds-what/",
+      "to": "/encyclopedia/foundations/"
+    },
+    {
+      "from": "/encyclopedia/foundations/who-funds-what/",
+      "to": "/encyclopedia/foundations/types-of-grants/"
+    },
+    {
+      "from": "/encyclopedia/foundations/who-funds-what/",
+      "to": "/encyclopedia/foundations/what-is-a-grant/"
+    },
+    {
+      "from": "/encyclopedia/foundations/who-funds-what/",
+      "to": "/encyclopedia/funding-tracks/community-foundations-and-dafs/"
+    },
+    {
+      "from": "/encyclopedia/foundations/who-funds-what/",
+      "to": "/encyclopedia/funding-tracks/corporate-giving/"
+    },
+    {
+      "from": "/encyclopedia/foundations/who-funds-what/",
+      "to": "/encyclopedia/funding-tracks/foundation-grants/"
+    },
+    {
+      "from": "/encyclopedia/foundations/who-funds-what/",
+      "to": "/encyclopedia/funding-tracks/state-and-local-grants/"
+    },
+    {
+      "from": "/encyclopedia/foundations/who-funds-what/",
+      "to": "/encyclopedia/readiness/fiscal-sponsorship/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/community-foundations-and-dafs/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/community-foundations-and-dafs/",
+      "to": "/encyclopedia/finding-funding/building-a-grant-pipeline/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/community-foundations-and-dafs/",
+      "to": "/encyclopedia/finding-funding/funder-research-990/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/community-foundations-and-dafs/",
+      "to": "/encyclopedia/funding-tracks/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/community-foundations-and-dafs/",
+      "to": "/encyclopedia/funding-tracks/corporate-giving/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/community-foundations-and-dafs/",
+      "to": "/encyclopedia/funding-tracks/foundation-grants/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/community-foundations-and-dafs/",
+      "to": "/encyclopedia/readiness/fiscal-sponsorship/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/corporate-giving/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/corporate-giving/",
+      "to": "/encyclopedia/finding-funding/funder-research-990/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/corporate-giving/",
+      "to": "/encyclopedia/finding-funding/go-no-go-decision/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/corporate-giving/",
+      "to": "/encyclopedia/funding-tracks/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/corporate-giving/",
+      "to": "/encyclopedia/funding-tracks/community-foundations-and-dafs/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/corporate-giving/",
+      "to": "/encyclopedia/funding-tracks/federal-grants-explained/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/corporate-giving/",
+      "to": "/encyclopedia/funding-tracks/foundation-grants/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/corporate-giving/",
+      "to": "/encyclopedia/funding-tracks/grants-vs-contracts/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/corporate-giving/",
+      "to": "/encyclopedia/proposal-craft/letter-of-inquiry/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/federal-grants-explained/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/federal-grants-explained/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/federal-grants-explained/",
+      "to": "/encyclopedia/budgets/allowable-costs/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/federal-grants-explained/",
+      "to": "/encyclopedia/budgets/indirect-cost-rates/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/federal-grants-explained/",
+      "to": "/encyclopedia/finding-funding/how-to-read-a-nofo/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/federal-grants-explained/",
+      "to": "/encyclopedia/funding-tracks/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/federal-grants-explained/",
+      "to": "/encyclopedia/funding-tracks/foundation-grants/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/federal-grants-explained/",
+      "to": "/encyclopedia/funding-tracks/grants-vs-contracts/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/federal-grants-explained/",
+      "to": "/encyclopedia/funding-tracks/research-grants-nih-nsf/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/federal-grants-explained/",
+      "to": "/encyclopedia/funding-tracks/sbir-and-sttr/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/federal-grants-explained/",
+      "to": "/encyclopedia/funding-tracks/state-and-local-grants/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/federal-grants-explained/",
+      "to": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/federal-grants-explained/",
+      "to": "/encyclopedia/readiness/sam-gov-and-uei-registration/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/foundation-grants/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/foundation-grants/",
+      "to": "/encyclopedia/budgets/true-cost-of-programs/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/foundation-grants/",
+      "to": "/encyclopedia/finding-funding/building-a-grant-pipeline/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/foundation-grants/",
+      "to": "/encyclopedia/finding-funding/funder-research-990/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/foundation-grants/",
+      "to": "/encyclopedia/funding-tracks/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/foundation-grants/",
+      "to": "/encyclopedia/funding-tracks/community-foundations-and-dafs/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/foundation-grants/",
+      "to": "/encyclopedia/funding-tracks/corporate-giving/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/foundation-grants/",
+      "to": "/encyclopedia/funding-tracks/federal-grants-explained/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/foundation-grants/",
+      "to": "/encyclopedia/funding-tracks/state-and-local-grants/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/foundation-grants/",
+      "to": "/encyclopedia/proposal-craft/letter-of-inquiry/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/foundation-grants/",
+      "to": "/encyclopedia/readiness/fiscal-sponsorship/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/grants-vs-contracts/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/grants-vs-contracts/",
+      "to": "/encyclopedia/award-management/building-a-grants-function/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/grants-vs-contracts/",
+      "to": "/encyclopedia/award-management/termination-and-appeals/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/grants-vs-contracts/",
+      "to": "/encyclopedia/budgets/allowable-costs/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/grants-vs-contracts/",
+      "to": "/encyclopedia/finding-funding/how-to-read-a-nofo/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/grants-vs-contracts/",
+      "to": "/encyclopedia/foundations/grants-vs-other-capital/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/grants-vs-contracts/",
+      "to": "/encyclopedia/funding-tracks/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/grants-vs-contracts/",
+      "to": "/encyclopedia/funding-tracks/federal-grants-explained/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/grants-vs-contracts/",
+      "to": "/encyclopedia/funding-tracks/nondilutive-capital-for-startups/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/grants-vs-contracts/",
+      "to": "/encyclopedia/funding-tracks/sbir-and-sttr/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/",
+      "to": "/encyclopedia/award-management/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/",
+      "to": "/encyclopedia/budgets/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/",
+      "to": "/encyclopedia/budgets/indirect-cost-rates/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/",
+      "to": "/encyclopedia/evidence/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/",
+      "to": "/encyclopedia/finding-funding/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/",
+      "to": "/encyclopedia/foundations/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/",
+      "to": "/encyclopedia/funding-tracks/community-foundations-and-dafs/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/",
+      "to": "/encyclopedia/funding-tracks/corporate-giving/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/",
+      "to": "/encyclopedia/funding-tracks/federal-grants-explained/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/",
+      "to": "/encyclopedia/funding-tracks/foundation-grants/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/",
+      "to": "/encyclopedia/funding-tracks/grants-vs-contracts/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/",
+      "to": "/encyclopedia/funding-tracks/nondilutive-capital-for-startups/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/",
+      "to": "/encyclopedia/funding-tracks/research-grants-nih-nsf/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/",
+      "to": "/encyclopedia/funding-tracks/sbir-and-sttr/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/",
+      "to": "/encyclopedia/funding-tracks/state-and-local-grants/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/",
+      "to": "/encyclopedia/proposal-craft/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/",
+      "to": "/encyclopedia/readiness/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/nondilutive-capital-for-startups/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/nondilutive-capital-for-startups/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/nondilutive-capital-for-startups/",
+      "to": "/encyclopedia/budgets/indirect-cost-rates/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/nondilutive-capital-for-startups/",
+      "to": "/encyclopedia/finding-funding/building-a-grant-pipeline/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/nondilutive-capital-for-startups/",
+      "to": "/encyclopedia/finding-funding/go-no-go-decision/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/nondilutive-capital-for-startups/",
+      "to": "/encyclopedia/foundations/grants-vs-other-capital/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/nondilutive-capital-for-startups/",
+      "to": "/encyclopedia/funding-tracks/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/nondilutive-capital-for-startups/",
+      "to": "/encyclopedia/funding-tracks/grants-vs-contracts/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/nondilutive-capital-for-startups/",
+      "to": "/encyclopedia/funding-tracks/research-grants-nih-nsf/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/nondilutive-capital-for-startups/",
+      "to": "/encyclopedia/funding-tracks/sbir-and-sttr/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/nondilutive-capital-for-startups/",
+      "to": "/encyclopedia/readiness/sam-gov-and-uei-registration/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/research-grants-nih-nsf/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/research-grants-nih-nsf/",
+      "to": "/encyclopedia/finding-funding/how-to-read-a-nofo/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/research-grants-nih-nsf/",
+      "to": "/encyclopedia/funding-tracks/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/research-grants-nih-nsf/",
+      "to": "/encyclopedia/funding-tracks/federal-grants-explained/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/research-grants-nih-nsf/",
+      "to": "/encyclopedia/funding-tracks/grants-vs-contracts/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/research-grants-nih-nsf/",
+      "to": "/encyclopedia/funding-tracks/sbir-and-sttr/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/research-grants-nih-nsf/",
+      "to": "/encyclopedia/proposal-craft/responding-to-rejection/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/research-grants-nih-nsf/",
+      "to": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/sbir-and-sttr/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/sbir-and-sttr/",
+      "to": "/encyclopedia/finding-funding/go-no-go-decision/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/sbir-and-sttr/",
+      "to": "/encyclopedia/funding-tracks/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/sbir-and-sttr/",
+      "to": "/encyclopedia/funding-tracks/federal-grants-explained/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/sbir-and-sttr/",
+      "to": "/encyclopedia/funding-tracks/grants-vs-contracts/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/sbir-and-sttr/",
+      "to": "/encyclopedia/funding-tracks/nondilutive-capital-for-startups/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/sbir-and-sttr/",
+      "to": "/encyclopedia/funding-tracks/research-grants-nih-nsf/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/sbir-and-sttr/",
+      "to": "/encyclopedia/readiness/sam-gov-and-uei-registration/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/state-and-local-grants/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/state-and-local-grants/",
+      "to": "/encyclopedia/award-management/subrecipient-monitoring/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/state-and-local-grants/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/state-and-local-grants/",
+      "to": "/encyclopedia/finding-funding/how-to-search-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/state-and-local-grants/",
+      "to": "/encyclopedia/funding-tracks/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/state-and-local-grants/",
+      "to": "/encyclopedia/funding-tracks/federal-grants-explained/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/state-and-local-grants/",
+      "to": "/encyclopedia/funding-tracks/foundation-grants/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/state-and-local-grants/",
+      "to": "/encyclopedia/funding-tracks/grants-vs-contracts/"
+    },
+    {
+      "from": "/encyclopedia/funding-tracks/state-and-local-grants/",
+      "to": "/encyclopedia/readiness/sam-gov-and-uei-registration/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/award-management/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/award-management/grant-closeout/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/award-management/grant-reporting-requirements/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/award-management/hiring-a-grant-writer/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/award-management/prior-approval-and-changes/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/award-management/reading-the-notice-of-award/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/award-management/subrecipient-monitoring/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/award-management/termination-and-appeals/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/award-management/time-and-effort-documentation/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/budgets/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/budgets/allowable-costs/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/budgets/cost-share-and-matching/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/budgets/direct-vs-indirect-costs/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/budgets/grant-budget-anatomy/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/budgets/grant-cash-flow/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/budgets/indirect-cost-rates/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/budgets/true-cost-of-programs/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/budgets/writing-a-budget-narrative/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/evidence/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/evidence/data-sources-for-needs-statements/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/evidence/levels-of-evidence/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/evidence/logic-models/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/evidence/outputs-vs-outcomes/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/evidence/performance-measurement/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/evidence/theory-of-change/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/evidence/writing-an-evaluation-plan/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/finding-funding/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/finding-funding/building-a-grant-pipeline/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/finding-funding/funder-research-990/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/finding-funding/go-no-go-decision/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/finding-funding/grant-calendar-and-timing/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/finding-funding/how-to-read-a-nofo/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/finding-funding/how-to-search-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/foundations/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/foundations/grant-funding-lifecycle/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/foundations/grant-funding-myths/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/foundations/how-funders-decide/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/foundations/types-of-grants/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/foundations/what-is-a-grant/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/funding-tracks/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/funding-tracks/community-foundations-and-dafs/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/funding-tracks/corporate-giving/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/funding-tracks/federal-grants-explained/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/funding-tracks/foundation-grants/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/funding-tracks/grants-vs-contracts/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/funding-tracks/nondilutive-capital-for-startups/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/funding-tracks/research-grants-nih-nsf/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/funding-tracks/sbir-and-sttr/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/proposal-craft/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/proposal-craft/abstract-and-project-summary/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/proposal-craft/compliance-matrix/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/proposal-craft/demonstrating-organizational-capacity/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/proposal-craft/goals-and-objectives/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/proposal-craft/letter-of-inquiry/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/proposal-craft/project-design-and-methodology/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/proposal-craft/responding-to-rejection/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/proposal-craft/sustainability-plan/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/proposal-craft/writing-a-needs-statement/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/readiness/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/readiness/fiscal-sponsorship/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/readiness/grant-documentation-file/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/readiness/grant-eligibility-explained/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/readiness/grant-readiness-assessment/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/readiness/internal-controls-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/glossary/",
+      "to": "/encyclopedia/readiness/sam-gov-and-uei-registration/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/editorial-policy/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/award-management/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/award-management/building-a-grants-function/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/award-management/grant-closeout/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/award-management/grant-reporting-requirements/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/award-management/hiring-a-grant-writer/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/award-management/prior-approval-and-changes/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/award-management/reading-the-notice-of-award/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/award-management/subrecipient-monitoring/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/award-management/termination-and-appeals/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/award-management/time-and-effort-documentation/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/budgets/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/budgets/allowable-costs/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/budgets/cost-share-and-matching/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/budgets/direct-vs-indirect-costs/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/budgets/grant-budget-anatomy/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/budgets/grant-cash-flow/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/budgets/indirect-cost-rates/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/evidence/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/evidence/logic-models/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/evidence/outputs-vs-outcomes/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/finding-funding/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/finding-funding/building-a-grant-pipeline/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/finding-funding/funder-research-990/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/finding-funding/go-no-go-decision/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/finding-funding/grant-calendar-and-timing/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/finding-funding/how-to-read-a-nofo/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/finding-funding/how-to-search-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/foundations/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/foundations/how-funders-decide/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/foundations/types-of-grants/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/foundations/what-is-a-grant/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/funding-tracks/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/funding-tracks/corporate-giving/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/funding-tracks/federal-grants-explained/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/funding-tracks/foundation-grants/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/funding-tracks/grants-vs-contracts/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/funding-tracks/nondilutive-capital-for-startups/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/funding-tracks/research-grants-nih-nsf/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/funding-tracks/sbir-and-sttr/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/funding-tracks/state-and-local-grants/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/proposal-craft/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/proposal-craft/compliance-matrix/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/proposal-craft/project-design-and-methodology/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/proposal-craft/responding-to-rejection/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/proposal-craft/writing-a-needs-statement/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/readiness/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/readiness/fiscal-sponsorship/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/readiness/grant-eligibility-explained/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/readiness/grant-readiness-assessment/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/readiness/internal-controls-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/",
+      "to": "/encyclopedia/readiness/sam-gov-and-uei-registration/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/abstract-and-project-summary/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/abstract-and-project-summary/",
+      "to": "/encyclopedia/finding-funding/how-to-read-a-nofo/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/abstract-and-project-summary/",
+      "to": "/encyclopedia/proposal-craft/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/abstract-and-project-summary/",
+      "to": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/abstract-and-project-summary/",
+      "to": "/encyclopedia/proposal-craft/compliance-matrix/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/abstract-and-project-summary/",
+      "to": "/encyclopedia/proposal-craft/goals-and-objectives/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/abstract-and-project-summary/",
+      "to": "/encyclopedia/proposal-craft/letter-of-inquiry/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/abstract-and-project-summary/",
+      "to": "/encyclopedia/proposal-craft/writing-a-needs-statement/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/abstract-and-project-summary/",
+      "to": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/",
+      "to": "/encyclopedia/budgets/writing-a-budget-narrative/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/",
+      "to": "/encyclopedia/evidence/writing-an-evaluation-plan/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/",
+      "to": "/encyclopedia/proposal-craft/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/",
+      "to": "/encyclopedia/proposal-craft/abstract-and-project-summary/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/",
+      "to": "/encyclopedia/proposal-craft/compliance-matrix/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/",
+      "to": "/encyclopedia/proposal-craft/demonstrating-organizational-capacity/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/",
+      "to": "/encyclopedia/proposal-craft/goals-and-objectives/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/",
+      "to": "/encyclopedia/proposal-craft/letter-of-inquiry/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/",
+      "to": "/encyclopedia/proposal-craft/project-design-and-methodology/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/",
+      "to": "/encyclopedia/proposal-craft/sustainability-plan/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/",
+      "to": "/encyclopedia/proposal-craft/writing-a-needs-statement/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/",
+      "to": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/compliance-matrix/",
+      "to": "/encyclopedia/budgets/writing-a-budget-narrative/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/compliance-matrix/",
+      "to": "/encyclopedia/finding-funding/go-no-go-decision/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/compliance-matrix/",
+      "to": "/encyclopedia/finding-funding/how-to-read-a-nofo/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/compliance-matrix/",
+      "to": "/encyclopedia/funding-tracks/grants-vs-contracts/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/compliance-matrix/",
+      "to": "/encyclopedia/proposal-craft/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/compliance-matrix/",
+      "to": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/compliance-matrix/",
+      "to": "/encyclopedia/proposal-craft/responding-to-rejection/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/compliance-matrix/",
+      "to": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/compliance-matrix/",
+      "to": "/encyclopedia/readiness/grant-documentation-file/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/compliance-matrix/",
+      "to": "/encyclopedia/readiness/sam-gov-and-uei-registration/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/demonstrating-organizational-capacity/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/demonstrating-organizational-capacity/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/demonstrating-organizational-capacity/",
+      "to": "/encyclopedia/proposal-craft/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/demonstrating-organizational-capacity/",
+      "to": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/demonstrating-organizational-capacity/",
+      "to": "/encyclopedia/proposal-craft/project-design-and-methodology/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/demonstrating-organizational-capacity/",
+      "to": "/encyclopedia/proposal-craft/sustainability-plan/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/demonstrating-organizational-capacity/",
+      "to": "/encyclopedia/proposal-craft/writing-a-needs-statement/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/demonstrating-organizational-capacity/",
+      "to": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/demonstrating-organizational-capacity/",
+      "to": "/encyclopedia/readiness/fiscal-sponsorship/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/demonstrating-organizational-capacity/",
+      "to": "/encyclopedia/readiness/grant-readiness-assessment/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/demonstrating-organizational-capacity/",
+      "to": "/encyclopedia/readiness/internal-controls-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/goals-and-objectives/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/goals-and-objectives/",
+      "to": "/encyclopedia/award-management/grant-reporting-requirements/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/goals-and-objectives/",
+      "to": "/encyclopedia/evidence/logic-models/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/goals-and-objectives/",
+      "to": "/encyclopedia/evidence/outputs-vs-outcomes/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/goals-and-objectives/",
+      "to": "/encyclopedia/evidence/performance-measurement/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/goals-and-objectives/",
+      "to": "/encyclopedia/evidence/theory-of-change/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/goals-and-objectives/",
+      "to": "/encyclopedia/evidence/writing-an-evaluation-plan/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/goals-and-objectives/",
+      "to": "/encyclopedia/proposal-craft/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/goals-and-objectives/",
+      "to": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/goals-and-objectives/",
+      "to": "/encyclopedia/proposal-craft/project-design-and-methodology/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/goals-and-objectives/",
+      "to": "/encyclopedia/proposal-craft/writing-a-needs-statement/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/",
+      "to": "/encyclopedia/award-management/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/",
+      "to": "/encyclopedia/budgets/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/",
+      "to": "/encyclopedia/budgets/writing-a-budget-narrative/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/",
+      "to": "/encyclopedia/evidence/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/",
+      "to": "/encyclopedia/evidence/logic-models/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/",
+      "to": "/encyclopedia/evidence/writing-an-evaluation-plan/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/",
+      "to": "/encyclopedia/finding-funding/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/",
+      "to": "/encyclopedia/foundations/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/",
+      "to": "/encyclopedia/funding-tracks/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/",
+      "to": "/encyclopedia/proposal-craft/abstract-and-project-summary/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/",
+      "to": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/",
+      "to": "/encyclopedia/proposal-craft/compliance-matrix/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/",
+      "to": "/encyclopedia/proposal-craft/demonstrating-organizational-capacity/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/",
+      "to": "/encyclopedia/proposal-craft/goals-and-objectives/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/",
+      "to": "/encyclopedia/proposal-craft/letter-of-inquiry/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/",
+      "to": "/encyclopedia/proposal-craft/project-design-and-methodology/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/",
+      "to": "/encyclopedia/proposal-craft/responding-to-rejection/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/",
+      "to": "/encyclopedia/proposal-craft/sustainability-plan/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/",
+      "to": "/encyclopedia/proposal-craft/writing-a-needs-statement/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/",
+      "to": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/",
+      "to": "/encyclopedia/readiness/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/letter-of-inquiry/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/letter-of-inquiry/",
+      "to": "/encyclopedia/finding-funding/funder-research-990/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/letter-of-inquiry/",
+      "to": "/encyclopedia/funding-tracks/community-foundations-and-dafs/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/letter-of-inquiry/",
+      "to": "/encyclopedia/funding-tracks/foundation-grants/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/letter-of-inquiry/",
+      "to": "/encyclopedia/proposal-craft/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/letter-of-inquiry/",
+      "to": "/encyclopedia/proposal-craft/abstract-and-project-summary/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/letter-of-inquiry/",
+      "to": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/letter-of-inquiry/",
+      "to": "/encyclopedia/proposal-craft/demonstrating-organizational-capacity/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/letter-of-inquiry/",
+      "to": "/encyclopedia/proposal-craft/responding-to-rejection/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/letter-of-inquiry/",
+      "to": "/encyclopedia/proposal-craft/writing-a-needs-statement/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/project-design-and-methodology/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/project-design-and-methodology/",
+      "to": "/encyclopedia/budgets/writing-a-budget-narrative/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/project-design-and-methodology/",
+      "to": "/encyclopedia/evidence/logic-models/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/project-design-and-methodology/",
+      "to": "/encyclopedia/evidence/writing-an-evaluation-plan/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/project-design-and-methodology/",
+      "to": "/encyclopedia/proposal-craft/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/project-design-and-methodology/",
+      "to": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/project-design-and-methodology/",
+      "to": "/encyclopedia/proposal-craft/demonstrating-organizational-capacity/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/project-design-and-methodology/",
+      "to": "/encyclopedia/proposal-craft/goals-and-objectives/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/project-design-and-methodology/",
+      "to": "/encyclopedia/proposal-craft/writing-a-needs-statement/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/responding-to-rejection/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/responding-to-rejection/",
+      "to": "/encyclopedia/finding-funding/building-a-grant-pipeline/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/responding-to-rejection/",
+      "to": "/encyclopedia/finding-funding/go-no-go-decision/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/responding-to-rejection/",
+      "to": "/encyclopedia/finding-funding/grant-calendar-and-timing/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/responding-to-rejection/",
+      "to": "/encyclopedia/foundations/how-funders-decide/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/responding-to-rejection/",
+      "to": "/encyclopedia/funding-tracks/research-grants-nih-nsf/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/responding-to-rejection/",
+      "to": "/encyclopedia/proposal-craft/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/responding-to-rejection/",
+      "to": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/responding-to-rejection/",
+      "to": "/encyclopedia/proposal-craft/compliance-matrix/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/responding-to-rejection/",
+      "to": "/encyclopedia/proposal-craft/letter-of-inquiry/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/responding-to-rejection/",
+      "to": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/sustainability-plan/",
+      "to": "/encyclopedia/award-management/grant-reporting-requirements/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/sustainability-plan/",
+      "to": "/encyclopedia/budgets/true-cost-of-programs/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/sustainability-plan/",
+      "to": "/encyclopedia/budgets/writing-a-budget-narrative/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/sustainability-plan/",
+      "to": "/encyclopedia/evidence/writing-an-evaluation-plan/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/sustainability-plan/",
+      "to": "/encyclopedia/proposal-craft/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/sustainability-plan/",
+      "to": "/encyclopedia/proposal-craft/abstract-and-project-summary/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/sustainability-plan/",
+      "to": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/sustainability-plan/",
+      "to": "/encyclopedia/proposal-craft/demonstrating-organizational-capacity/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/sustainability-plan/",
+      "to": "/encyclopedia/proposal-craft/goals-and-objectives/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/writing-a-needs-statement/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/writing-a-needs-statement/",
+      "to": "/encyclopedia/evidence/data-sources-for-needs-statements/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/writing-a-needs-statement/",
+      "to": "/encyclopedia/evidence/levels-of-evidence/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/writing-a-needs-statement/",
+      "to": "/encyclopedia/evidence/logic-models/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/writing-a-needs-statement/",
+      "to": "/encyclopedia/evidence/performance-measurement/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/writing-a-needs-statement/",
+      "to": "/encyclopedia/proposal-craft/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/writing-a-needs-statement/",
+      "to": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/writing-a-needs-statement/",
+      "to": "/encyclopedia/proposal-craft/demonstrating-organizational-capacity/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/writing-a-needs-statement/",
+      "to": "/encyclopedia/proposal-craft/goals-and-objectives/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/writing-a-needs-statement/",
+      "to": "/encyclopedia/proposal-craft/project-design-and-methodology/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/",
+      "to": "/encyclopedia/finding-funding/how-to-read-a-nofo/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/",
+      "to": "/encyclopedia/foundations/how-funders-decide/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/",
+      "to": "/encyclopedia/funding-tracks/research-grants-nih-nsf/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/",
+      "to": "/encyclopedia/proposal-craft/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/",
+      "to": "/encyclopedia/proposal-craft/abstract-and-project-summary/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/",
+      "to": "/encyclopedia/proposal-craft/anatomy-of-a-grant-proposal/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/",
+      "to": "/encyclopedia/proposal-craft/compliance-matrix/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/",
+      "to": "/encyclopedia/proposal-craft/project-design-and-methodology/"
+    },
+    {
+      "from": "/encyclopedia/proposal-craft/writing-for-grant-reviewers/",
+      "to": "/encyclopedia/proposal-craft/responding-to-rejection/"
+    },
+    {
+      "from": "/encyclopedia/readiness/fiscal-sponsorship/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/readiness/fiscal-sponsorship/",
+      "to": "/encyclopedia/finding-funding/funder-research-990/"
+    },
+    {
+      "from": "/encyclopedia/readiness/fiscal-sponsorship/",
+      "to": "/encyclopedia/funding-tracks/foundation-grants/"
+    },
+    {
+      "from": "/encyclopedia/readiness/fiscal-sponsorship/",
+      "to": "/encyclopedia/readiness/"
+    },
+    {
+      "from": "/encyclopedia/readiness/fiscal-sponsorship/",
+      "to": "/encyclopedia/readiness/grant-documentation-file/"
+    },
+    {
+      "from": "/encyclopedia/readiness/fiscal-sponsorship/",
+      "to": "/encyclopedia/readiness/grant-eligibility-explained/"
+    },
+    {
+      "from": "/encyclopedia/readiness/fiscal-sponsorship/",
+      "to": "/encyclopedia/readiness/grant-readiness-assessment/"
+    },
+    {
+      "from": "/encyclopedia/readiness/fiscal-sponsorship/",
+      "to": "/encyclopedia/readiness/internal-controls-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/readiness/fiscal-sponsorship/",
+      "to": "/encyclopedia/readiness/sam-gov-and-uei-registration/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-documentation-file/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-documentation-file/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-documentation-file/",
+      "to": "/encyclopedia/budgets/indirect-cost-rates/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-documentation-file/",
+      "to": "/encyclopedia/evidence/logic-models/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-documentation-file/",
+      "to": "/encyclopedia/proposal-craft/demonstrating-organizational-capacity/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-documentation-file/",
+      "to": "/encyclopedia/readiness/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-documentation-file/",
+      "to": "/encyclopedia/readiness/fiscal-sponsorship/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-documentation-file/",
+      "to": "/encyclopedia/readiness/grant-eligibility-explained/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-documentation-file/",
+      "to": "/encyclopedia/readiness/grant-readiness-assessment/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-documentation-file/",
+      "to": "/encyclopedia/readiness/internal-controls-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-documentation-file/",
+      "to": "/encyclopedia/readiness/sam-gov-and-uei-registration/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-eligibility-explained/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-eligibility-explained/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-eligibility-explained/",
+      "to": "/encyclopedia/budgets/allowable-costs/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-eligibility-explained/",
+      "to": "/encyclopedia/finding-funding/how-to-read-a-nofo/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-eligibility-explained/",
+      "to": "/encyclopedia/funding-tracks/sbir-and-sttr/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-eligibility-explained/",
+      "to": "/encyclopedia/readiness/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-eligibility-explained/",
+      "to": "/encyclopedia/readiness/fiscal-sponsorship/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-eligibility-explained/",
+      "to": "/encyclopedia/readiness/grant-documentation-file/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-eligibility-explained/",
+      "to": "/encyclopedia/readiness/grant-readiness-assessment/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-eligibility-explained/",
+      "to": "/encyclopedia/readiness/sam-gov-and-uei-registration/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-readiness-assessment/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-readiness-assessment/",
+      "to": "/encyclopedia/award-management/building-a-grants-function/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-readiness-assessment/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-readiness-assessment/",
+      "to": "/encyclopedia/award-management/time-and-effort-documentation/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-readiness-assessment/",
+      "to": "/encyclopedia/budgets/grant-cash-flow/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-readiness-assessment/",
+      "to": "/encyclopedia/readiness/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-readiness-assessment/",
+      "to": "/encyclopedia/readiness/fiscal-sponsorship/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-readiness-assessment/",
+      "to": "/encyclopedia/readiness/grant-eligibility-explained/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-readiness-assessment/",
+      "to": "/encyclopedia/readiness/internal-controls-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/readiness/grant-readiness-assessment/",
+      "to": "/encyclopedia/readiness/sam-gov-and-uei-registration/"
+    },
+    {
+      "from": "/encyclopedia/readiness/",
+      "to": "/encyclopedia/award-management/"
+    },
+    {
+      "from": "/encyclopedia/readiness/",
+      "to": "/encyclopedia/budgets/"
+    },
+    {
+      "from": "/encyclopedia/readiness/",
+      "to": "/encyclopedia/evidence/"
+    },
+    {
+      "from": "/encyclopedia/readiness/",
+      "to": "/encyclopedia/finding-funding/"
+    },
+    {
+      "from": "/encyclopedia/readiness/",
+      "to": "/encyclopedia/foundations/"
+    },
+    {
+      "from": "/encyclopedia/readiness/",
+      "to": "/encyclopedia/funding-tracks/"
+    },
+    {
+      "from": "/encyclopedia/readiness/",
+      "to": "/encyclopedia/proposal-craft/"
+    },
+    {
+      "from": "/encyclopedia/readiness/",
+      "to": "/encyclopedia/readiness/fiscal-sponsorship/"
+    },
+    {
+      "from": "/encyclopedia/readiness/",
+      "to": "/encyclopedia/readiness/grant-documentation-file/"
+    },
+    {
+      "from": "/encyclopedia/readiness/",
+      "to": "/encyclopedia/readiness/grant-eligibility-explained/"
+    },
+    {
+      "from": "/encyclopedia/readiness/",
+      "to": "/encyclopedia/readiness/grant-readiness-assessment/"
+    },
+    {
+      "from": "/encyclopedia/readiness/",
+      "to": "/encyclopedia/readiness/internal-controls-for-grants/"
+    },
+    {
+      "from": "/encyclopedia/readiness/",
+      "to": "/encyclopedia/readiness/sam-gov-and-uei-registration/"
+    },
+    {
+      "from": "/encyclopedia/readiness/internal-controls-for-grants/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/readiness/internal-controls-for-grants/",
+      "to": "/encyclopedia/award-management/subrecipient-monitoring/"
+    },
+    {
+      "from": "/encyclopedia/readiness/internal-controls-for-grants/",
+      "to": "/encyclopedia/award-management/the-single-audit/"
+    },
+    {
+      "from": "/encyclopedia/readiness/internal-controls-for-grants/",
+      "to": "/encyclopedia/award-management/time-and-effort-documentation/"
+    },
+    {
+      "from": "/encyclopedia/readiness/internal-controls-for-grants/",
+      "to": "/encyclopedia/budgets/allowable-costs/"
+    },
+    {
+      "from": "/encyclopedia/readiness/internal-controls-for-grants/",
+      "to": "/encyclopedia/budgets/grant-cash-flow/"
+    },
+    {
+      "from": "/encyclopedia/readiness/internal-controls-for-grants/",
+      "to": "/encyclopedia/readiness/"
+    },
+    {
+      "from": "/encyclopedia/readiness/internal-controls-for-grants/",
+      "to": "/encyclopedia/readiness/fiscal-sponsorship/"
+    },
+    {
+      "from": "/encyclopedia/readiness/internal-controls-for-grants/",
+      "to": "/encyclopedia/readiness/grant-documentation-file/"
+    },
+    {
+      "from": "/encyclopedia/readiness/internal-controls-for-grants/",
+      "to": "/encyclopedia/readiness/grant-readiness-assessment/"
+    },
+    {
+      "from": "/encyclopedia/readiness/sam-gov-and-uei-registration/",
+      "to": "/corrections/"
+    },
+    {
+      "from": "/encyclopedia/readiness/sam-gov-and-uei-registration/",
+      "to": "/encyclopedia/funding-tracks/research-grants-nih-nsf/"
+    },
+    {
+      "from": "/encyclopedia/readiness/sam-gov-and-uei-registration/",
+      "to": "/encyclopedia/funding-tracks/sbir-and-sttr/"
+    },
+    {
+      "from": "/encyclopedia/readiness/sam-gov-and-uei-registration/",
+      "to": "/encyclopedia/readiness/"
+    },
+    {
+      "from": "/encyclopedia/readiness/sam-gov-and-uei-registration/",
+      "to": "/encyclopedia/readiness/grant-documentation-file/"
+    },
+    {
+      "from": "/encyclopedia/readiness/sam-gov-and-uei-registration/",
+      "to": "/encyclopedia/readiness/grant-eligibility-explained/"
+    },
+    {
+      "from": "/encyclopedia/readiness/sam-gov-and-uei-registration/",
+      "to": "/encyclopedia/readiness/grant-readiness-assessment/"
+    }
+  ]
+}

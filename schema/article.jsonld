@@ -1,0 +1,175 @@
+{
+  "_comment": [
+    "CLUSTER ARTICLE GRAPH — one per article at /encyclopedia/{hub}/{slug}/.",
+    "",
+    "WHAT FILLS THE PLACEHOLDERS — all of it comes from the article's own",
+    "frontmatter and from data/manifest.json. Nothing here is written by hand.",
+    "",
+    "  {{URL}}                 frontmatter `url`, made absolute: https://opengrants.io{url}",
+    "  {{TITLE}}               frontmatter `title` — must equal the visible H1 exactly, <=110 chars",
+    "  {{META_DESCRIPTION}}    frontmatter `metaDescription` — the direct-answer block, trimmed",
+    "  {{SCHEMA_TYPE}}         frontmatter `schemaType`: Article or TechArticle",
+    "  {{PRIMARY_ENTITY}}      frontmatter `primaryEntity`",
+    "  {{HUB_TITLE}} {{HUB_URL}}   from data/taxonomy.json for this article's hub",
+    "  {{DATE_PUBLISHED}}      frontmatter `datePublished`, ISO 8601 with timezone",
+    "  {{DATE_MODIFIED}}       frontmatter `dateModified` — changes ONLY on substantive change",
+    "  {{IMAGE_URL_16X9}} {{IMAGE_URL_4X3}} {{IMAGE_URL_1X1}}   article hero variants;",
+    "                          delete the image node entirely if the article has no image",
+    "  {{AUTHOR_*}}            frontmatter `author.*`",
+    "  {{AUTHOR_SAMEAS_3}}     THIRD sameAs URL — a human must supply this (ORCID, personal",
+    "                          site, professional registry, Wikidata). Do not invent one.",
+    "  {{REVIEWER_*}}          frontmatter `reviewer.*`. If reviewer.name is still",
+    "                          REVIEWER_REQUIRED the article is not publishable and this",
+    "                          graph must not be emitted.",
+    "  {{TERM_SLUG_N}}         frontmatter `definedTerms[]` — @id refs into the glossary set",
+    "  {{CITATION_NAME_N}} {{CITATION_URL_N}}   one CreativeWork per external source, from",
+    "                          `externalSources` in data/manifest.json. Emit ALL of them",
+    "                          (8-15 per article); the two below are shape examples.",
+    "  {{FAQ_QUESTION_N}} {{FAQ_ANSWER_N}}      from the visible FAQ H3s and their answers",
+    "",
+    "RULES",
+    "  1. Every value here must appear in the visible text of the page. Google's",
+    "     explicit requirement. Visible Published / Last reviewed dates must match",
+    "     datePublished / dateModified character for character.",
+    "  2. Organization and the author Person are referenced by @id only. Their full",
+    "     definitions live in schema/organization.jsonld and on the author page.",
+    "     The reviewer Person is defined inline because there is no reviewer page yet;",
+    "     if reviewer pages are added, move it and reference by @id like the author.",
+    "  3. FAQPage is emitted because it is free. NO Google rich result exists for it",
+    "     (ended 2026-05-07). Never write FAQ content for the markup. See README.md.",
+    "  4. `about` -> DefinedTerm is for entity disambiguation, not a ranking play.",
+    "  5. Delete any node or property you cannot populate truthfully."
+  ],
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "{{SCHEMA_TYPE}}",
+      "@id": "{{URL}}#article",
+      "isPartOf": { "@id": "{{URL}}#webpage" },
+      "mainEntityOfPage": { "@id": "{{URL}}#webpage" },
+      "headline": "{{TITLE}}",
+      "name": "{{TITLE}}",
+      "description": "{{META_DESCRIPTION}}",
+      "inLanguage": "en-US",
+      "isAccessibleForFree": true,
+      "datePublished": "{{DATE_PUBLISHED}}",
+      "dateModified": "{{DATE_MODIFIED}}",
+      "author": { "@id": "https://opengrants.io/authors/sedale-turbovsky/#person" },
+      "reviewedBy": { "@id": "{{URL}}#reviewer" },
+      "publisher": { "@id": "https://opengrants.io/#organization" },
+      "image": {
+        "@type": "ImageObject",
+        "url": "{{IMAGE_URL_16X9}}",
+        "contentUrl": "{{IMAGE_URL_16X9}}"
+      },
+      "about": [
+        { "@id": "https://opengrants.io/encyclopedia/glossary/#term-{{TERM_SLUG_1}}" },
+        { "@id": "https://opengrants.io/encyclopedia/glossary/#term-{{TERM_SLUG_2}}" }
+      ],
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "name": "{{CITATION_NAME_1}}",
+          "url": "{{CITATION_URL_1}}"
+        },
+        {
+          "@type": "CreativeWork",
+          "name": "{{CITATION_NAME_2}}",
+          "url": "{{CITATION_URL_2}}"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "{{URL}}#webpage",
+      "url": "{{URL}}",
+      "name": "{{TITLE}}",
+      "description": "{{META_DESCRIPTION}}",
+      "isPartOf": { "@id": "https://opengrants.io/#website" },
+      "breadcrumb": { "@id": "{{URL}}#breadcrumb" },
+      "primaryImageOfPage": { "@id": "{{URL}}#article" },
+      "datePublished": "{{DATE_PUBLISHED}}",
+      "dateModified": "{{DATE_MODIFIED}}",
+      "inLanguage": "en-US",
+      "potentialAction": {
+        "@type": "ReadAction",
+        "target": ["{{URL}}"]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "{{URL}}#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://opengrants.io/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Encyclopedia",
+          "item": "https://opengrants.io/encyclopedia/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "{{HUB_TITLE}}",
+          "item": "https://opengrants.io{{HUB_URL}}"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "{{TITLE}}"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://opengrants.io/authors/sedale-turbovsky/#person",
+      "name": "{{AUTHOR_NAME}}",
+      "url": "https://opengrants.io{{AUTHOR_PROFILE_URL}}",
+      "jobTitle": "{{AUTHOR_CREDENTIALS}}",
+      "worksFor": { "@id": "https://opengrants.io/#organization" },
+      "sameAs": [
+        "{{AUTHOR_SAMEAS_1}}",
+        "{{AUTHOR_SAMEAS_2}}",
+        "{{AUTHOR_SAMEAS_3}}"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "{{URL}}#reviewer",
+      "name": "{{REVIEWER_NAME}}",
+      "description": "{{REVIEWER_CREDENTIALS}}"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://opengrants.io/#organization"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "{{URL}}#faq",
+      "isPartOf": { "@id": "{{URL}}#webpage" },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "{{FAQ_QUESTION_1}}",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "{{FAQ_ANSWER_1}}"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "{{FAQ_QUESTION_2}}",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "{{FAQ_ANSWER_2}}"
+          }
+        }
+      ]
+    }
+  ]
+}

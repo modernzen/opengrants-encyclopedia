@@ -1,0 +1,91 @@
+{
+  "_comment": [
+    "SITE-WIDE ORGANIZATION ENTITY — emit ONCE, on the homepage or /about only.",
+    "",
+    "Every other page in the encyclopedia references this node by @id and emits",
+    "nothing further:  \"publisher\": { \"@id\": \"https://opengrants.io/#organization\" }",
+    "Duplicating the full definition across 75 article pages creates 75 competing",
+    "assertions of the same entity, which is the opposite of what entity markup is for.",
+    "",
+    "PLACEHOLDERS — a human must fill or delete each one. Do NOT guess a value.",
+    "  {{LEGAL_NAME}}        registered legal entity name, exactly as filed",
+    "  {{LOGO_URL}}          absolute URL to the logo image, minimum 112x112px",
+    "  {{LOGO_WIDTH}}        integer pixels",
+    "  {{LOGO_HEIGHT}}       integer pixels",
+    "  {{FOUNDING_DATE}}     ISO 8601 date (YYYY-MM-DD)",
+    "  {{STREET_ADDRESS}}    business address; omit the whole address node if remote",
+    "  {{CITY}} {{REGION}} {{POSTAL_CODE}} {{COUNTRY}}   ISO 3166 country code",
+    "  {{CONTACT_EMAIL}}     a monitored address",
+    "  {{CRUNCHBASE_URL}}    optional additional sameAs; delete the line if unused",
+    "",
+    "VERIFIED VALUES — these are confirmed and should not be changed casually:",
+    "  name, url, description, and the four sameAs profiles below are taken from",
+    "  opengrants.io itself. Everything else is a placeholder on purpose.",
+    "",
+    "DELETE any property you cannot verify. An omitted property is neutral.",
+    "A wrong one is a trust defect in a YMYL corpus, and every schema value must",
+    "also appear in the visible text of the page that emits it.",
+    "Google's recommended property set:",
+    "https://developers.google.com/search/docs/appearance/structured-data/organization"
+  ],
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://opengrants.io/#organization",
+      "name": "OpenGrants",
+      "legalName": "{{LEGAL_NAME}}",
+      "url": "https://opengrants.io",
+      "description": "OpenGrants connects organizations to grant funding and grant funding strategists.",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://opengrants.io/#logo",
+        "url": "{{LOGO_URL}}",
+        "width": "{{LOGO_WIDTH}}",
+        "height": "{{LOGO_HEIGHT}}",
+        "caption": "OpenGrants"
+      },
+      "image": { "@id": "https://opengrants.io/#logo" },
+      "foundingDate": "{{FOUNDING_DATE}}",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "{{STREET_ADDRESS}}",
+        "addressLocality": "{{CITY}}",
+        "addressRegion": "{{REGION}}",
+        "postalCode": "{{POSTAL_CODE}}",
+        "addressCountry": "{{COUNTRY}}"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "email": "{{CONTACT_EMAIL}}",
+        "url": "https://opengrants.io"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/18966243/",
+        "https://twitter.com/opengrants_io",
+        "https://www.youtube.com/c/OpenGrants",
+        "https://www.facebook.com/opengrants.io/",
+        "{{CRUNCHBASE_URL}}"
+      ],
+      "publishingPrinciples": "https://opengrants.io/editorial-policy/",
+      "correctionsPolicy": "https://opengrants.io/corrections/",
+      "knowsAbout": [
+        "Grant funding",
+        "Federal grants",
+        "Grant writing",
+        "Nonprofit funding",
+        "SBIR and STTR programs",
+        "Grant compliance and award management"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://opengrants.io/#website",
+      "url": "https://opengrants.io",
+      "name": "OpenGrants",
+      "publisher": { "@id": "https://opengrants.io/#organization" },
+      "inLanguage": "en-US"
+    }
+  ]
+}

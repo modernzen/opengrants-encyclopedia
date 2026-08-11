@@ -1,0 +1,128 @@
+{
+  "_comment": [
+    "GLOSSARY GRAPH — emitted once, on /encyclopedia/glossary/.",
+    "",
+    "WHAT FILLS THE PLACEHOLDERS — every term node is generated from an entry in",
+    "data/glossary.json (180 entries). Nothing here is hand-written.",
+    "",
+    "  {{TERM_SLUG}}          glossary.json `slug` — the stable anchor and termCode.",
+    "                         IMMUTABLE, exactly like an article slug: articles reference",
+    "                         these @ids from their `about` arrays.",
+    "  {{TERM_NAME}}          glossary.json `term`",
+    "  {{TERM_DEFINITION}}    glossary.json `definition` — the one-sentence definition,",
+    "                         verbatim, matching the visible text",
+    "  {{TERM_ALTERNATE_N}}   glossary.json `alternateNames[]` — synonyms and acronyms",
+    "  {{TERM_EXPLAINED_IN}}  glossary.json `explainedIn` — the article that explains the",
+    "                         term in full, made absolute",
+    "  {{TERM_SOURCE_URL}}    glossary.json `source.url` — the primary source for the",
+    "                         definition (statute, CFR section, agency page)",
+    "  {{TERM_WIKIDATA_URI}}  OPTIONAL. A Wikidata or Wikipedia URI for entity resolution.",
+    "                         A human must verify each one against the actual entity.",
+    "                         DELETE the sameAs property for any term without a verified",
+    "                         match. A wrong sameAs asserts the term IS a different thing.",
+    "",
+    "  Two term nodes appear below as shape examples. Emit all 180.",
+    "",
+    "RULES",
+    "  1. @id convention:  https://opengrants.io/encyclopedia/glossary/#term-{{TERM_SLUG}}",
+    "     Article graphs reference these exact @ids in `about`. Changing a term slug",
+    "     breaks every article that points at it — treat slugs as immutable.",
+    "  2. inDefinedTermSet points every member at #termset. Define the set once.",
+    "  3. No Google rich result exists for DefinedTerm or DefinedTermSet. schema.org",
+    "     lists them in the 'new' area (~10K-100K implementing domains). Emit for",
+    "     semantic clarity and third-party consumers, expecting no Google benefit.",
+    "  4. Every definition in the schema must appear verbatim in the visible glossary.",
+    "  5. If glossary terms are ever split onto individual URLs, set each term's `url`",
+    "     to its own page and keep the @id scheme unchanged so article refs still",
+    "     resolve. 180 thin pages is a scaled-content risk; the single page is default."
+  ],
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "DefinedTermSet",
+      "@id": "https://opengrants.io/encyclopedia/glossary/#termset",
+      "name": "Grant Funding Glossary",
+      "description": "A reference glossary of grant funding terms, each defined in one sentence with a primary-source citation and a link to the article that explains it in full.",
+      "url": "https://opengrants.io/encyclopedia/glossary/",
+      "inLanguage": "en-US",
+      "publisher": { "@id": "https://opengrants.io/#organization" },
+      "hasDefinedTerm": [
+        { "@id": "https://opengrants.io/encyclopedia/glossary/#term-{{TERM_SLUG_1}}" },
+        { "@id": "https://opengrants.io/encyclopedia/glossary/#term-{{TERM_SLUG_2}}" }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://opengrants.io/encyclopedia/glossary/#term-{{TERM_SLUG_1}}",
+      "name": "{{TERM_NAME_1}}",
+      "description": "{{TERM_DEFINITION_1}}",
+      "termCode": "{{TERM_SLUG_1}}",
+      "alternateName": ["{{TERM_ALTERNATE_1A}}", "{{TERM_ALTERNATE_1B}}"],
+      "inDefinedTermSet": { "@id": "https://opengrants.io/encyclopedia/glossary/#termset" },
+      "url": "https://opengrants.io/encyclopedia/glossary/#term-{{TERM_SLUG_1}}",
+      "subjectOf": { "@id": "{{TERM_EXPLAINED_IN_1}}#article" },
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "{{TERM_SOURCE_NAME_1}}",
+        "url": "{{TERM_SOURCE_URL_1}}"
+      },
+      "sameAs": "{{TERM_WIKIDATA_URI_1}}"
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://opengrants.io/encyclopedia/glossary/#term-{{TERM_SLUG_2}}",
+      "name": "{{TERM_NAME_2}}",
+      "description": "{{TERM_DEFINITION_2}}",
+      "termCode": "{{TERM_SLUG_2}}",
+      "alternateName": ["{{TERM_ALTERNATE_2A}}"],
+      "inDefinedTermSet": { "@id": "https://opengrants.io/encyclopedia/glossary/#termset" },
+      "url": "https://opengrants.io/encyclopedia/glossary/#term-{{TERM_SLUG_2}}",
+      "subjectOf": { "@id": "{{TERM_EXPLAINED_IN_2}}#article" },
+      "citation": {
+        "@type": "CreativeWork",
+        "name": "{{TERM_SOURCE_NAME_2}}",
+        "url": "{{TERM_SOURCE_URL_2}}"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://opengrants.io/encyclopedia/glossary/#webpage",
+      "url": "https://opengrants.io/encyclopedia/glossary/",
+      "name": "Grant Funding Glossary",
+      "description": "A reference glossary of grant funding terms, each defined in one sentence with a primary-source citation and a link to the article that explains it in full.",
+      "isPartOf": { "@id": "https://opengrants.io/#website" },
+      "breadcrumb": { "@id": "https://opengrants.io/encyclopedia/glossary/#breadcrumb" },
+      "mainEntity": { "@id": "https://opengrants.io/encyclopedia/glossary/#termset" },
+      "datePublished": "{{DATE_PUBLISHED}}",
+      "dateModified": "{{DATE_MODIFIED}}",
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://opengrants.io/encyclopedia/glossary/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://opengrants.io/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Encyclopedia",
+          "item": "https://opengrants.io/encyclopedia/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Grant Funding Glossary"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://opengrants.io/#organization"
+    }
+  ]
+}

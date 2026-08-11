@@ -1,0 +1,171 @@
+{
+  "$schema": "./taxonomy.schema.json",
+  "name": "The OpenGrants Encyclopedia",
+  "version": "1.0.0",
+  "baseUrl": "https://opengrants.io",
+  "rootPath": "/encyclopedia/",
+  "description": "An evergreen reference on how public and philanthropic funding actually works, and how to win it.",
+  "generatedBy": "OpenGrants content architecture, August 2026",
+  "conventions": {
+    "urlPattern": "/encyclopedia/{hub}/{slug}/",
+    "hubUrlPattern": "/encyclopedia/{hub}/",
+    "glossaryUrlPattern": "/encyclopedia/glossary/{term}/",
+    "maxUrlDepth": 3,
+    "slugsAreImmutable": true
+  },
+  "hubs": [
+    {
+      "key": "foundations",
+      "title": "Grant Funding Fundamentals",
+      "slug": "foundations",
+      "url": "/encyclopedia/foundations/",
+      "order": 1,
+      "primaryQuestion": "How does grant funding actually work?",
+      "description": "The structure of the funding system: what a grant is, who gives money away and why, and how the whole cycle moves.",
+      "children": [
+        { "slug": "what-is-a-grant", "title": "What Is a Grant?", "articleType": "concept", "primaryQuestion": "What is a grant?" },
+        { "slug": "types-of-grants", "title": "Types of Grants Explained", "articleType": "concept", "primaryQuestion": "What are the different types of grants?" },
+        { "slug": "who-funds-what", "title": "Who Funds What: The Funder Landscape", "articleType": "concept", "primaryQuestion": "Who gives out grants?" },
+        { "slug": "grant-funding-lifecycle", "title": "The Grant Funding Lifecycle", "articleType": "process", "primaryQuestion": "What are the stages of the grant lifecycle?" },
+        { "slug": "how-funders-decide", "title": "How Funders Decide Who Gets Money", "articleType": "concept", "primaryQuestion": "How do funders decide who gets a grant?" },
+        { "slug": "grants-vs-other-capital", "title": "Grants vs Loans, Equity, and Contracts", "articleType": "comparison", "primaryQuestion": "How do grants differ from loans and equity?" },
+        { "slug": "grant-funding-myths", "title": "Grant Funding Myths, Corrected", "articleType": "concept", "primaryQuestion": "What are the most common myths about grants?" }
+      ]
+    },
+    {
+      "key": "finding-funding",
+      "title": "Finding and Qualifying Funding",
+      "slug": "finding-funding",
+      "url": "/encyclopedia/finding-funding/",
+      "order": 2,
+      "primaryQuestion": "How do you find grants you can actually win?",
+      "description": "Search strategy, funder research, pipeline construction, and the discipline of saying no to bad fits.",
+      "children": [
+        { "slug": "how-to-search-for-grants", "title": "How to Search for Grants", "articleType": "process", "primaryQuestion": "How do you search for grants?" },
+        { "slug": "how-to-read-a-nofo", "title": "How to Read a NOFO", "articleType": "process", "primaryQuestion": "How do you read a Notice of Funding Opportunity?" },
+        { "slug": "funder-research-990", "title": "Researching a Funder with Form 990", "articleType": "process", "primaryQuestion": "How do you research a foundation using its Form 990?" },
+        { "slug": "building-a-grant-pipeline", "title": "Building a Grant Pipeline", "articleType": "process", "primaryQuestion": "How do you build a grant pipeline?" },
+        { "slug": "go-no-go-decision", "title": "The Go/No-Go Decision", "articleType": "process", "primaryQuestion": "How do you decide whether to apply for a grant?" },
+        { "slug": "grant-calendar-and-timing", "title": "Grant Timing and the Funding Calendar", "articleType": "concept", "primaryQuestion": "When should you start a grant application?" },
+        { "slug": "free-grant-data-sources", "title": "Free Grant and Funder Data Sources", "articleType": "concept", "primaryQuestion": "Where can you find grant data for free?" }
+      ]
+    },
+    {
+      "key": "readiness",
+      "title": "Eligibility and Organizational Readiness",
+      "slug": "readiness",
+      "url": "/encyclopedia/readiness/",
+      "order": 3,
+      "primaryQuestion": "Is your organization actually ready to receive a grant?",
+      "description": "Registrations, legal status, documentation, and the internal machinery a funder assumes you already have.",
+      "children": [
+        { "slug": "grant-eligibility-explained", "title": "Grant Eligibility Explained", "articleType": "concept", "primaryQuestion": "What determines whether you are eligible for a grant?" },
+        { "slug": "sam-gov-and-uei-registration", "title": "SAM.gov Registration and the UEI", "articleType": "process", "primaryQuestion": "How do you register in SAM.gov and get a UEI?" },
+        { "slug": "grant-readiness-assessment", "title": "The Grant Readiness Assessment", "articleType": "process", "primaryQuestion": "How do you know if your organization is grant ready?" },
+        { "slug": "fiscal-sponsorship", "title": "Fiscal Sponsorship for Grant Seekers", "articleType": "concept", "primaryQuestion": "What is fiscal sponsorship and when do you need it?" },
+        { "slug": "grant-documentation-file", "title": "The Documents Every Grant Application Needs", "articleType": "process", "primaryQuestion": "What documents do you need to apply for a grant?" },
+        { "slug": "internal-controls-for-grants", "title": "Internal Controls for Grant Recipients", "articleType": "concept", "primaryQuestion": "What internal controls do grant funders require?" }
+      ]
+    },
+    {
+      "key": "proposal-craft",
+      "title": "Writing the Proposal",
+      "slug": "proposal-craft",
+      "url": "/encyclopedia/proposal-craft/",
+      "order": 4,
+      "primaryQuestion": "How do you write a grant proposal that wins?",
+      "description": "Section by section: what each part of a proposal is actually asked to prove, and how reviewers read it.",
+      "children": [
+        { "slug": "anatomy-of-a-grant-proposal", "title": "The Anatomy of a Grant Proposal", "articleType": "concept", "primaryQuestion": "What are the sections of a grant proposal?" },
+        { "slug": "writing-a-needs-statement", "title": "Writing a Statement of Need", "articleType": "process", "primaryQuestion": "How do you write a statement of need?" },
+        { "slug": "goals-and-objectives", "title": "Goals, Objectives, and Activities", "articleType": "concept", "primaryQuestion": "What is the difference between a goal and an objective?" },
+        { "slug": "project-design-and-methodology", "title": "Writing the Project Design", "articleType": "process", "primaryQuestion": "How do you write the project design section?" },
+        { "slug": "demonstrating-organizational-capacity", "title": "Demonstrating Organizational Capacity", "articleType": "process", "primaryQuestion": "How do you prove your organization can do the work?" },
+        { "slug": "sustainability-plan", "title": "Writing a Sustainability Plan", "articleType": "process", "primaryQuestion": "How do you write a sustainability plan for a grant?" },
+        { "slug": "abstract-and-project-summary", "title": "The Abstract and Project Summary", "articleType": "process", "primaryQuestion": "How do you write a grant abstract?" },
+        { "slug": "letter-of-inquiry", "title": "The Letter of Inquiry", "articleType": "process", "primaryQuestion": "How do you write a letter of inquiry?" },
+        { "slug": "writing-for-grant-reviewers", "title": "Writing for the Reviewer", "articleType": "concept", "primaryQuestion": "How do grant reviewers actually read proposals?" },
+        { "slug": "compliance-matrix", "title": "Building a Compliance Matrix", "articleType": "process", "primaryQuestion": "What is a compliance matrix in a grant proposal?" },
+        { "slug": "responding-to-rejection", "title": "What to Do When a Grant Is Declined", "articleType": "process", "primaryQuestion": "What should you do after a grant rejection?" }
+      ]
+    },
+    {
+      "key": "budgets",
+      "title": "Budgets and Grant Finance",
+      "slug": "budgets",
+      "url": "/encyclopedia/budgets/",
+      "order": 5,
+      "primaryQuestion": "How do you build a grant budget that survives review and audit?",
+      "description": "Cost categories, indirect rates, match, allowability, and the cash mechanics of running on grant money.",
+      "children": [
+        { "slug": "grant-budget-anatomy", "title": "The Anatomy of a Grant Budget", "articleType": "concept", "primaryQuestion": "What goes into a grant budget?" },
+        { "slug": "direct-vs-indirect-costs", "title": "Direct vs Indirect Costs", "articleType": "comparison", "primaryQuestion": "What is the difference between direct and indirect costs?" },
+        { "slug": "indirect-cost-rates", "title": "Indirect Cost Rates and the De Minimis Option", "articleType": "concept", "primaryQuestion": "How do indirect cost rates work?" },
+        { "slug": "cost-share-and-matching", "title": "Cost Share and Matching Requirements", "articleType": "concept", "primaryQuestion": "What is cost share on a grant?" },
+        { "slug": "writing-a-budget-narrative", "title": "Writing a Budget Narrative", "articleType": "process", "primaryQuestion": "How do you write a budget narrative?" },
+        { "slug": "allowable-costs", "title": "Allowable, Allocable, and Reasonable Costs", "articleType": "concept", "primaryQuestion": "What makes a cost allowable on a federal grant?" },
+        { "slug": "grant-cash-flow", "title": "Grant Cash Flow and Reimbursement", "articleType": "concept", "primaryQuestion": "How does grant money actually reach your bank account?" },
+        { "slug": "true-cost-of-programs", "title": "The True Cost of Running a Program", "articleType": "concept", "primaryQuestion": "What does full cost recovery mean for nonprofits?" }
+      ]
+    },
+    {
+      "key": "evidence",
+      "title": "Evidence, Evaluation, and Data",
+      "slug": "evidence",
+      "url": "/encyclopedia/evidence/",
+      "order": 6,
+      "primaryQuestion": "How do you prove a project will work, and then prove it did?",
+      "description": "Logic models, evaluation design, evidence tiers, and the public data that makes a needs statement credible.",
+      "children": [
+        { "slug": "logic-models", "title": "How to Build a Logic Model", "articleType": "process", "primaryQuestion": "What is a logic model and how do you build one?" },
+        { "slug": "theory-of-change", "title": "Theory of Change vs Logic Model", "articleType": "comparison", "primaryQuestion": "What is the difference between a theory of change and a logic model?" },
+        { "slug": "outputs-vs-outcomes", "title": "Outputs, Outcomes, and Impact", "articleType": "comparison", "primaryQuestion": "What is the difference between an output and an outcome?" },
+        { "slug": "writing-an-evaluation-plan", "title": "Writing an Evaluation Plan", "articleType": "process", "primaryQuestion": "How do you write an evaluation plan for a grant?" },
+        { "slug": "levels-of-evidence", "title": "Levels of Evidence in Grant Funding", "articleType": "concept", "primaryQuestion": "What does evidence-based mean in a grant application?" },
+        { "slug": "data-sources-for-needs-statements", "title": "Public Data Sources for Needs Statements", "articleType": "concept", "primaryQuestion": "Where do you find data for a grant needs statement?" },
+        { "slug": "performance-measurement", "title": "Performance Measurement and Indicators", "articleType": "concept", "primaryQuestion": "How do you choose performance measures for a grant?" }
+      ]
+    },
+    {
+      "key": "funding-tracks",
+      "title": "Funding Tracks by Funder Type",
+      "slug": "funding-tracks",
+      "url": "/encyclopedia/funding-tracks/",
+      "order": 7,
+      "primaryQuestion": "Which funding track fits your organization?",
+      "description": "Federal, state, foundation, corporate, and innovation funding — how each one behaves and what it demands.",
+      "children": [
+        { "slug": "federal-grants-explained", "title": "Federal Grants Explained", "articleType": "program", "primaryQuestion": "How do federal grants work?" },
+        { "slug": "state-and-local-grants", "title": "State and Local Government Grants", "articleType": "program", "primaryQuestion": "How do state and local grants work?" },
+        { "slug": "foundation-grants", "title": "Foundation Grants", "articleType": "program", "primaryQuestion": "How do foundation grants work?" },
+        { "slug": "corporate-giving", "title": "Corporate Giving and Corporate Grants", "articleType": "program", "primaryQuestion": "How do corporate grants work?" },
+        { "slug": "community-foundations-and-dafs", "title": "Community Foundations and Donor-Advised Funds", "articleType": "program", "primaryQuestion": "How do community foundations and donor-advised funds work?" },
+        { "slug": "sbir-and-sttr", "title": "SBIR and STTR Explained", "articleType": "program", "primaryQuestion": "What are SBIR and STTR grants?" },
+        { "slug": "research-grants-nih-nsf", "title": "Research Grants at NIH and NSF", "articleType": "program", "primaryQuestion": "How do NIH and NSF research grants work?" },
+        { "slug": "nondilutive-capital-for-startups", "title": "Non-Dilutive Capital for Startups", "articleType": "concept", "primaryQuestion": "What is non-dilutive capital for startups?" },
+        { "slug": "grants-vs-contracts", "title": "Grants vs Contracts vs Cooperative Agreements", "articleType": "comparison", "primaryQuestion": "What is the difference between a grant and a contract?" }
+      ]
+    },
+    {
+      "key": "award-management",
+      "title": "Managing the Award",
+      "slug": "award-management",
+      "url": "/encyclopedia/award-management/",
+      "order": 8,
+      "primaryQuestion": "What happens after you win a grant?",
+      "description": "Reporting, prior approval, monitoring, audit, closeout, and the operating function that holds it all together.",
+      "children": [
+        { "slug": "reading-the-notice-of-award", "title": "How to Read a Notice of Award", "articleType": "process", "primaryQuestion": "How do you read a Notice of Award?" },
+        { "slug": "grant-reporting-requirements", "title": "Grant Reporting Requirements", "articleType": "concept", "primaryQuestion": "What reports do grant recipients have to file?" },
+        { "slug": "prior-approval-and-changes", "title": "Prior Approval and Changing a Grant", "articleType": "concept", "primaryQuestion": "When do you need prior approval to change a grant?" },
+        { "slug": "subrecipient-monitoring", "title": "Subrecipient Monitoring and Pass-Through Funding", "articleType": "process", "primaryQuestion": "What are your obligations when you subaward grant funds?" },
+        { "slug": "time-and-effort-documentation", "title": "Time and Effort Documentation", "articleType": "process", "primaryQuestion": "How do you document staff time charged to a grant?" },
+        { "slug": "the-single-audit", "title": "The Single Audit", "articleType": "concept", "primaryQuestion": "What is a Single Audit and who needs one?" },
+        { "slug": "grant-closeout", "title": "Closing Out a Grant", "articleType": "process", "primaryQuestion": "How do you close out a grant?" },
+        { "slug": "termination-and-appeals", "title": "Grant Termination, Suspension, and Appeals", "articleType": "concept", "primaryQuestion": "What happens if a grant is terminated?" },
+        { "slug": "building-a-grants-function", "title": "Building a Grants Function", "articleType": "process", "primaryQuestion": "How do you build a grants program inside an organization?" },
+        { "slug": "hiring-a-grant-writer", "title": "Hiring a Grant Writer", "articleType": "process", "primaryQuestion": "How do you hire a grant writer, and what should it cost?" }
+      ]
+    }
+  ]
+}

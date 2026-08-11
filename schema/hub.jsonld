@@ -1,0 +1,141 @@
+{
+  "_comment": [
+    "HUB PAGE GRAPH — one per pillar hub at /encyclopedia/{hub}/, plus the root",
+    "index at /encyclopedia/ (which uses the same shape with hub-level breadcrumbs",
+    "trimmed to two items and ItemList enumerating the eight hubs).",
+    "",
+    "WHAT FILLS THE PLACEHOLDERS — all from data/taxonomy.json and the hub's own",
+    "content/{hub}/index.md frontmatter.",
+    "",
+    "  {{HUB_URL}}            absolute hub URL, e.g. https://opengrants.io/encyclopedia/budgets/",
+    "  {{HUB_TITLE}}          taxonomy `hubs[].title` — equals the visible H1",
+    "  {{HUB_DESCRIPTION}}    frontmatter `metaDescription` from content/{hub}/index.md",
+    "  {{DATE_PUBLISHED}} {{DATE_MODIFIED}}   ISO 8601 with timezone; must match the",
+    "                         visible Published / Last reviewed lines exactly",
+    "  {{CHILD_N_TITLE}} {{CHILD_N_URL}}      taxonomy `hubs[].children[]`, IN TAXONOMY",
+    "                         ORDER. Emit one ListItem per child, positions 1..n,",
+    "                         1-indexed and contiguous. The two below are shape examples;",
+    "                         hubs carry 6 to 11 children.",
+    "  {{AUTHOR_SAMEAS_3}}    third sameAs URL, supplied by a human. Do not invent one.",
+    "  {{CITATION_NAME_N}} {{CITATION_URL_N}}  hub pages carry 8-12 external citations too;",
+    "                         populate from data/manifest.json `externalSources`.",
+    "",
+    "RULES",
+    "  1. ItemList must enumerate EVERY child of the hub, in taxonomy order, and each",
+    "     child must also be linked in the visible hub prose. Schema that lists a child",
+    "     the page does not visibly link is a mismatch with visible text.",
+    "  2. A hub page is a real article, not a link directory. It emits Article/",
+    "     TechArticle like any other page; the ItemList is additional, not a substitute.",
+    "  3. No Google rich result exists for a non-carousel ItemList. Emit it for",
+    "     structural clarity, expecting no rich-result benefit.",
+    "  4. Organization and the author Person are @id references only.",
+    "  5. Breadcrumbs represent the reader's path: Home > Encyclopedia > Hub."
+  ],
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "{{HUB_URL}}#article",
+      "isPartOf": { "@id": "{{HUB_URL}}#webpage" },
+      "mainEntityOfPage": { "@id": "{{HUB_URL}}#webpage" },
+      "headline": "{{HUB_TITLE}}",
+      "name": "{{HUB_TITLE}}",
+      "description": "{{HUB_DESCRIPTION}}",
+      "inLanguage": "en-US",
+      "isAccessibleForFree": true,
+      "datePublished": "{{DATE_PUBLISHED}}",
+      "dateModified": "{{DATE_MODIFIED}}",
+      "author": { "@id": "https://opengrants.io/authors/sedale-turbovsky/#person" },
+      "reviewedBy": { "@id": "{{HUB_URL}}#reviewer" },
+      "publisher": { "@id": "https://opengrants.io/#organization" },
+      "citation": [
+        {
+          "@type": "CreativeWork",
+          "name": "{{CITATION_NAME_1}}",
+          "url": "{{CITATION_URL_1}}"
+        }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "{{HUB_URL}}#webpage",
+      "url": "{{HUB_URL}}",
+      "name": "{{HUB_TITLE}}",
+      "description": "{{HUB_DESCRIPTION}}",
+      "isPartOf": { "@id": "https://opengrants.io/#website" },
+      "breadcrumb": { "@id": "{{HUB_URL}}#breadcrumb" },
+      "mainEntity": { "@id": "{{HUB_URL}}#itemlist" },
+      "datePublished": "{{DATE_PUBLISHED}}",
+      "dateModified": "{{DATE_MODIFIED}}",
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "ItemList",
+      "@id": "{{HUB_URL}}#itemlist",
+      "name": "{{HUB_TITLE}}",
+      "description": "{{HUB_DESCRIPTION}}",
+      "itemListOrder": "https://schema.org/ItemListOrderAscending",
+      "numberOfItems": "{{CHILD_COUNT}}",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "{{CHILD_1_TITLE}}",
+          "url": "{{CHILD_1_URL}}"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "{{CHILD_2_TITLE}}",
+          "url": "{{CHILD_2_URL}}"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "{{HUB_URL}}#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://opengrants.io/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Encyclopedia",
+          "item": "https://opengrants.io/encyclopedia/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "{{HUB_TITLE}}"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://opengrants.io/authors/sedale-turbovsky/#person",
+      "name": "{{AUTHOR_NAME}}",
+      "url": "https://opengrants.io{{AUTHOR_PROFILE_URL}}",
+      "jobTitle": "{{AUTHOR_CREDENTIALS}}",
+      "worksFor": { "@id": "https://opengrants.io/#organization" },
+      "sameAs": [
+        "{{AUTHOR_SAMEAS_1}}",
+        "{{AUTHOR_SAMEAS_2}}",
+        "{{AUTHOR_SAMEAS_3}}"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "{{HUB_URL}}#reviewer",
+      "name": "{{REVIEWER_NAME}}",
+      "description": "{{REVIEWER_CREDENTIALS}}"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://opengrants.io/#organization"
+    }
+  ]
+}
